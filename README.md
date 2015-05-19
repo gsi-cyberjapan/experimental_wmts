@@ -12,7 +12,7 @@ WMTSバージョン：
 OpenGIS Web Map Tile Service Implementation Standard (Version1.0.0)
 http://www.opengeospatial.org/standards/wmts
 
-# WMTSメタデータ作成ツールについて
+# WMTSメタデータ作成ツール
 地理院地図で使用しているレイヤ定義ファイル(layers.txt)から
 地理院タイル（ラスタタイル）のWMTSメタデータを作成します。
 
