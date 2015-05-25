@@ -146,6 +146,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Identifier>toho4</ows:Identifier>
+<ows:Title>地図・空中写真_東日本大震災後オルソ画像_2013年9月～2013年12月</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/toho4/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
 <ows:Identifier>toho3</ows:Identifier>
 <ows:Title>地図・空中写真_東日本大震災後オルソ画像_2012年10月～2013年5月</ows:Title>
 <Style isDefault="true">
@@ -12876,6 +12888,18 @@
 <TileMatrixSet>z5to14</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/ALOS/earthquake/20070325_notohantou/1.2007.02.23-2007.04.10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Identifier>20150507-20150521d_sar_hakoneyama</ows:Identifier>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/07-2015/05/21_DR</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150507-20150521d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Identifier>20150417-20150515a_sar_hakoneyama</ows:Identifier>
