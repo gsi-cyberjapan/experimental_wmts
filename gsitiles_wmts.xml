@@ -12890,6 +12890,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/ALOS/earthquake/20070325_notohantou/1.2007.02.23-2007.04.10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Identifier>20150510-20150524a_sar_hakoneyama</ows:Identifier>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/10-2015/05/24_AR</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150510-20150524a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Identifier>20150507-20150521d_sar_hakoneyama</ows:Identifier>
 <ows:Title>防災関連_箱根山の火山活動_2015/05/07-2015/05/21_DR</ows:Title>
 <Style isDefault="true">
