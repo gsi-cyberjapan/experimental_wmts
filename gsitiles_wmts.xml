@@ -12891,7 +12891,7 @@
 </Layer>
 <Layer>
 <ows:Identifier>20141114-20150529u06l_sar_kuchinoerabu</ows:Identifier>
-<ows:Title>防災関連_口永良部島の火山活動_2014/11/14-2015/05/29_DL</ows:Title>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2014/11/14-2015/05/29_DL</ows:Title>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -12903,7 +12903,7 @@
 </Layer>
 <Layer>
 <ows:Identifier>20150123-20150529u07l_sar_kuchinoerabu</ows:Identifier>
-<ows:Title>防災関連_口永良部島の火山活動_2015/01/23-2015/05/29_AL</ows:Title>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/01/23-2015/05/29_AL</ows:Title>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -12914,8 +12914,20 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150123-20150529u07l_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Identifier>20150209-20150601u07r_sar_kuchinoerabu</ows:Identifier>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/02/09-2015/06/01_DR</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150209-20150601u07r_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Identifier>20141114-20150529pwr_sar_kuchinoerabu</ows:Identifier>
-<ows:Title>防災関連_口永良部島の火山活動_2014/11/14-2015/05/29_DL_PWR</ows:Title>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2014/11/14-2015/05/29_DL_PWR</ows:Title>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -12927,7 +12939,7 @@
 </Layer>
 <Layer>
 <ows:Identifier>20150123-20150529pwr_sar_kuchinoerabu</ows:Identifier>
-<ows:Title>防災関連_口永良部島の火山活動_2015/01/23-2015/05/29_AL_PWR</ows:Title>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/01/23-2015/05/29_AL_PWR</ows:Title>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -12936,6 +12948,18 @@
 <TileMatrixSet>z5to17</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150123-20150529pwr_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Identifier>20150209-20150601pwr_sar_kuchinoerabu</ows:Identifier>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/02/09-2015/06/01_DR_PWR</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150209-20150601pwr_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Identifier>20150529_relief_kuchinoerabu</ows:Identifier>
@@ -12960,6 +12984,18 @@
 <TileMatrixSet>z8to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150529_taisakuzu_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Identifier>airphoto_kuchinoerabu</ows:Identifier>
+<ows:Title>防災関連_口永良部島の火山活動_過去の簡易空中写真（2012年4月）</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Identifier>20150510-20150524a_sar_hakoneyama</ows:Identifier>
