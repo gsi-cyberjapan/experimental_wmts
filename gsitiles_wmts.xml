@@ -12962,6 +12962,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150209-20150601pwr_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Identifier>20150606_ls8_kuchinoerabu</ows:Identifier>
+<ows:Title>防災関連_口永良部島の火山活動_Landsat8観測画像_2015.6.6</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150606_ls8_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Identifier>20150521_ls8_kuchinoerabu</ows:Identifier>
+<ows:Title>防災関連_口永良部島の火山活動_Landsat8観測画像_2015.5.21</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150521_ls8_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Identifier>20150529_relief_kuchinoerabu</ows:Identifier>
 <ows:Title>防災関連_口永良部島の火山活動_口永良部島　陰影段彩図</ows:Title>
 <Style isDefault="true">
@@ -12996,6 +13020,18 @@
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Identifier>20150521-20150604d_sar_hakoneyama</ows:Identifier>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/21-2015/06/04_DR</ows:Title>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150521-20150604d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Identifier>20150510-20150524a_sar_hakoneyama</ows:Identifier>
@@ -16119,6 +16155,167 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>131072</MatrixWidth>
 <MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z8to16</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z8to15</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
