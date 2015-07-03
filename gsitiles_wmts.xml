@@ -12890,6 +12890,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/ALOS/earthquake/20070325_notohantou/1.2007.02.23-2007.04.10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/06/12-2015/06/26_DL</ows:Title>
+<ows:Identifier>20150612-20150626u06l_sar_kuchinoerabu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150612-20150626u06l_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/05/29-2015/06/12_DL</ows:Title>
 <ows:Identifier>20150529-20150612u06r_sar_kuchinoerabu</ows:Identifier>
 <Style isDefault="true">
@@ -13032,6 +13044,18 @@
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/06/18-2015/07/02_DR</ows:Title>
+<ows:Identifier>20150618-20150702d_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150618-20150702d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/06/04-2015/06/18_DR</ows:Title>
@@ -13461,7 +13485,7 @@
 </Style>
 <Format>image/jpg</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
+<TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
