@@ -13214,6 +13214,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm19hakone/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_浅間山の火山活動_2015/06/07-2015/07/05_AR</ows:Title>
+<ows:Identifier>20150607-20150705u06r_sar_asamayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150607-20150705u06r_sar_asamayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_浅間山の火山活動_2014/11/11-2015/06/23_DR</ows:Title>
 <ows:Identifier>20141111-20150623u07r_sar_asamayama</ows:Identifier>
 <Style isDefault="true">
