@@ -13010,6 +13010,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150521_ls8_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_口永良部島の火山活動_UAV撮影による正射画像(7/14)</ows:Title>
+<ows:Identifier>seisha150714kuchinoerabu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z14to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150714dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_口永良部島の火山活動_口永良部島　陰影段彩図</ows:Title>
 <ows:Identifier>20150529_relief_kuchinoerabu</ows:Identifier>
 <Style isDefault="true">
@@ -13046,7 +13058,43 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/06/18-2015/07/02_DR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/07/02-2015/07/16_DR</ows:Title>
+<ows:Identifier>20150702-20150716d_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150702-20150716d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/15-2015/07/10_AR</ows:Title>
+<ows:Identifier>20150515-20150710a_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150515-20150710a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/06/07-2015/07/05_AR</ows:Title>
+<ows:Identifier>20150607-20150705a_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150607-20150705a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/06/18-2015/07/02_DR</ows:Title>
 <ows:Identifier>20150618-20150702d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13058,7 +13106,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150618-20150702d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/06/04-2015/06/18_DR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/06/04-2015/06/18_DR</ows:Title>
 <ows:Identifier>20150604-20150618d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13070,7 +13118,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150604-20150618d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/05/24-2015/06/07_AR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/24-2015/06/07_AR</ows:Title>
 <ows:Identifier>20150524-20150607a_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13082,7 +13130,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150524-20150607a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/05/21-2015/06/04_DR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/21-2015/06/04_DR</ows:Title>
 <ows:Identifier>20150521-20150604d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13094,7 +13142,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150521-20150604d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/05/10-2015/05/24_AR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/10-2015/05/24_AR</ows:Title>
 <ows:Identifier>20150510-20150524a_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13106,7 +13154,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150510-20150524a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/05/07-2015/05/21_DR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/05/07-2015/05/21_DR</ows:Title>
 <ows:Identifier>20150507-20150521d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13118,7 +13166,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150507-20150521d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/04/17-2015/05/15_AR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/04/17-2015/05/15_AR</ows:Title>
 <ows:Identifier>20150417-20150515a_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13130,7 +13178,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150417-20150515a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2015/03/01-2015/05/10_AR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2015/03/01-2015/05/10_AR</ows:Title>
 <ows:Identifier>20150301-20150510a_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13142,7 +13190,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150301-20150510a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2014/10/09-2015/05/07_DR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2014/10/09-2015/05/07_DR</ows:Title>
 <ows:Identifier>20141009-20150507d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13154,7 +13202,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141009-20150507d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_2014/12/12-2015/04/17_AR</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_2014/12/12-2015/04/17_AR</ows:Title>
 <ows:Identifier>20141212-20150417a_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13166,7 +13214,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141212-20150417a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_SAR干渉画像に影響を及ぼす誤差事例_　　┗【干渉画像】</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_SAR干渉画像に影響を及ぼす誤差事例_　　┗【干渉画像】</ows:Title>
 <ows:Identifier>sar_eg_water</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13178,7 +13226,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/sar_eg_water/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_SAR干渉画像に影響を及ぼす誤差事例_　　┗【干渉画像】</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_SAR干渉画像に影響を及ぼす誤差事例_　　┗【干渉画像】</ows:Title>
 <ows:Identifier>sar_eg_atmosphere</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13190,7 +13238,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_火山基本図「箱根山」（陰影段彩）</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_火山基本図「箱根山」（陰影段彩）</ows:Title>
 <ows:Identifier>VBM2_csr_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13202,7 +13250,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM2_csr_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_大涌谷周辺（箱根山）の火山活動_火山基本図「箱根山」</ows:Title>
+<ows:Title>防災関連_箱根山の火山活動_火山基本図「箱根山」</ows:Title>
 <ows:Identifier>VBM2_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13212,6 +13260,18 @@
 <TileMatrixSet>z8to17</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm19hakone/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_浅間山の火山活動_2015/05/15-2015/07/10_AR</ows:Title>
+<ows:Identifier>20150515-20150710u09r_sar_asamayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150515-20140710u09r_sar_asamayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_浅間山の火山活動_2015/06/07-2015/07/05_AR</ows:Title>
@@ -16463,6 +16523,55 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z14to18</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>18</ows:Identifier>
+<ScaleDenominator>2132.729583849784</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>262144</MatrixWidth>
+<MatrixHeight>262144</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z8to18</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -16791,55 +16900,6 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>131072</MatrixWidth>
 <MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z14to18</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>18</ows:Identifier>
-<ScaleDenominator>2132.729583849784</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>262144</MatrixWidth>
-<MatrixHeight>262144</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
