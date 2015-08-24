@@ -13082,6 +13082,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/08/06-2015/08/20_DL</ows:Title>
+<ows:Identifier>201500806-20150820d_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150806-20150820_u10l_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/05/28-2015/08/06_DL</ows:Title>
 <ows:Identifier>20150528-20150806d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
