@@ -12902,6 +12902,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/ALOS/earthquake/20070325_notohantou/1.2007.02.23-2007.04.10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/07/24-2015/08/21_DL</ows:Title>
+<ows:Identifier>20150724_20150821_u06l_sar_kuchinoerabu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150724_20150821_u06l_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/06/26-2015/07/24_DL</ows:Title>
+<ows:Identifier>20150626_20150724_u06l_sar_kuchinoerabu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150626_20150724_u06l_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/06/12-2015/06/26_DL</ows:Title>
 <ows:Identifier>20150612-20150626u06l_sar_kuchinoerabu</ows:Identifier>
 <Style isDefault="true">
@@ -13406,6 +13430,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150524-20150607u06r_sar_asamayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/10-2015/08/24_DL</ows:Title>
+<ows:Identifier>20150810_20150824_u07r_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150810_20150824_u07r_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/07/22-2015/08/19_AR</ows:Title>
+<ows:Identifier>20150722_20150819_u09r_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150722_20150819_u09r_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/07/06-2015/08/17_DL</ows:Title>
 <ows:Identifier>20150706_20150817_u13l_1_sar_sakurajima</ows:Identifier>
 <Style isDefault="true">
@@ -13464,6 +13512,30 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_桜島の火山活動_火山災害対策用図（応急版）</ows:Title>
+<ows:Identifier>2015_kazantaisaku_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2015_kazantaisaku_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_桜島の火山活動_陰影段彩図（応急版）</ows:Title>
+<ows:Identifier>2015_relief_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2015_relief_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_長野県北部地震_都市圏活断層図</ows:Title>
@@ -13898,6 +13970,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140711dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.7.28（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20150728dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z14to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150728dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.3.1（無人航空機（UAV）撮影）</ows:Title>
 <ows:Identifier>20150301dol</ows:Identifier>
 <Style isDefault="true">
@@ -13994,6 +14078,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.7.28(無人航空機(UAV)撮影)</ows:Title>
+<ows:Identifier>handoku20150728dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150728dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.3.1(無人航空機(UAV)撮影)</ows:Title>
 <ows:Identifier>handoku20150301dol2</ows:Identifier>
 <Style isDefault="true">
@@ -14076,6 +14172,18 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131204doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.8.24</ows:Title>
+<ows:Identifier>20150824lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150824lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.7.23</ows:Title>
@@ -16925,6 +17033,55 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z13to17</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z10to18</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -17007,55 +17164,6 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>262144</MatrixWidth>
 <MatrixHeight>262144</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z13to17</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
