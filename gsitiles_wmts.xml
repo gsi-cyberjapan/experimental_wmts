@@ -12902,6 +12902,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/ALOS/earthquake/20070325_notohantou/1.2007.02.23-2007.04.10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/08/12-2015/08/26_DL</ows:Title>
+<ows:Identifier>20150812_20150826_u09l_sar_kuchinoerabu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150812_20150826_u09l_sar_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_口永良部島の火山活動_SAR解析結果_2015/07/24-2015/08/21_DL</ows:Title>
 <ows:Identifier>20150724_20150821_u06l_sar_kuchinoerabu</ows:Identifier>
 <Style isDefault="true">
@@ -13106,6 +13118,42 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/07/02-2015/08/27_DR</ows:Title>
+<ows:Identifier>20150702-20150827_u09r_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150702-20150827_u09r_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/07/16-2015/08/27_DR</ows:Title>
+<ows:Identifier>20150716-20150827_u09r_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150716-20150827_u09r_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/07/02-2015/07/16_DR</ows:Title>
+<ows:Identifier>20150702-20150716d_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150702-20150716d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/08/06-2015/08/20_DL</ows:Title>
 <ows:Identifier>201500806-20150820d_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
@@ -13140,18 +13188,6 @@
 <TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150710-20150724a_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_箱根山の火山活動_2015/07/02-2015/07/16_DR</ows:Title>
-<ows:Identifier>20150702-20150716d_sar_hakoneyama</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to15</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150702-20150716d_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/05/15-2015/07/10_AR</ows:Title>
@@ -13430,6 +13466,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150524-20150607u06r_sar_asamayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/24-2015/09/07_DR</ows:Title>
+<ows:Identifier>20150824_20150907_u07r_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150824_20150907_u07r_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/17-2015/08/31_DL</ows:Title>
+<ows:Identifier>20150817_20150831_u13l_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150817_20150831_u13l_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/10-2015/08/24_DL</ows:Title>
 <ows:Identifier>20150810_20150824_u07r_sar_sakurajima</ows:Identifier>
 <Style isDefault="true">
@@ -13536,6 +13596,114 @@
 <TileMatrixSet>z13to17</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2015_relief_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_十勝岳の火山活動_2014/08/30-2015/08/15_DL</ows:Title>
+<ows:Identifier>20140830_20150815_u08l_sar_tokachidake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140830_20150815_u08l_sar_tokachidake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_吾妻山の火山活動_2014/09/09-2015/06/02_AR</ows:Title>
+<ows:Identifier>20140909_20150602_u06r_sar_azumayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_大崎地区正射画像（2015.9.12撮影)</ows:Title>
+<ows:Identifier>20150912dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150912dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_破堤箇所周辺の写真（2006年渋井川）</ows:Title>
+<ows:Identifier>1509typhoon18_photo_shibuigawa_150911_1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/1509typhoon18_photo_shibuigawa_150911_1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_常総地区正射画像（2015.9.11午後撮影)</ows:Title>
+<ows:Identifier>20150911dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_常総地区正射画像（2015.9.11午前撮影)</ows:Title>
+<ows:Identifier>20150911dol1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_鹿沼地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Identifier>20150911dol3</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol3/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_鬼怒川温泉地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Identifier>20150911dol4</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol4/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年台風18号による大雨_結城地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Identifier>20150911dol5</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol5/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_長野県北部地震_都市圏活断層図</ows:Title>
