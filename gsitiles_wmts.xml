@@ -13070,8 +13070,20 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150521_ls8_kuchinoerabu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_口永良部島の火山活動_UAV撮影による正射画像(9/8,11,12)</ows:Title>
+<ows:Identifier>20150911dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z14to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_口永良部島の火山活動_UAV撮影による正射画像(7/14)</ows:Title>
-<ows:Identifier>seisha150714kuchinoerabu</ows:Identifier>
+<ows:Identifier>20150714dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13116,6 +13128,18 @@
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/08/27-2015/10/22_DR</ows:Title>
+<ows:Identifier>20150827_20151022_u09r_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150827_20151022_u09r_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/07/02-2015/08/27_DR</ows:Title>
@@ -13622,7 +13646,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_大崎地区正射画像（2015.9.12撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_宮城県大崎地区_大崎地区正射画像（2015.9.12撮影)</ows:Title>
 <ows:Identifier>20150912dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13634,7 +13658,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150912dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_破堤箇所周辺の写真（2006年渋井川）</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_宮城県大崎地区_破堤箇所周辺の写真（2006年渋井川）</ows:Title>
 <ows:Identifier>1509typhoon18_photo_shibuigawa_150911_1</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13646,7 +13670,43 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/1509typhoon18_photo_shibuigawa_150911_1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_常総地区正射画像（2015.9.11午後撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県常総・坂東地区_常総地区正射画像（2015.9.29午前撮影）</ows:Title>
+<ows:Identifier>20150929dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z14to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150929dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県常総・坂東地区_常総地区正射画像（2015.9.15午前撮影）</ows:Title>
+<ows:Identifier>20150915dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150915dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県常総・坂東地区_常総地区正射画像（2015.9.13午前撮影）</ows:Title>
+<ows:Identifier>20150913dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150913dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県常総・坂東地区_常総地区正射画像（2015.9.11午後撮影)</ows:Title>
 <ows:Identifier>20150911dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13658,7 +13718,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_常総地区正射画像（2015.9.11午前撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県常総・坂東地区_常総地区正射画像（2015.9.11午前撮影)</ows:Title>
 <ows:Identifier>20150911dol1</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13670,7 +13730,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_鹿沼地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_栃木県鹿沼・鬼怒川温泉地区_鹿沼地区正射画像（2015.9.11撮影)</ows:Title>
 <ows:Identifier>20150911dol3</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13682,7 +13742,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol3/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_鬼怒川温泉地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_栃木県鹿沼・鬼怒川温泉地区_鬼怒川温泉地区正射画像（2015.9.11撮影)</ows:Title>
 <ows:Identifier>20150911dol4</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13694,7 +13754,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol4/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成27年台風18号による大雨_結城地区正射画像（2015.9.11撮影)</ows:Title>
+<ows:Title>防災関連_平成27年9月関東・東北豪雨_茨城県結城・古河地区_結城地区正射画像（2015.9.11撮影)</ows:Title>
 <ows:Identifier>20150911dol5</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -13706,32 +13766,8 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150911dol5/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_長野県北部地震_都市圏活断層図</ows:Title>
-<ows:Identifier>fm1411nagano</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/AFM/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_長野県北部地震_過去の空中写真（2004年～）</ows:Title>
-<ows:Identifier>airphoto1411nagano</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_長野県北部地震_干渉SAR_2014/09/19-2014/11/28_AR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.19-2014.11.28</ows:Identifier>
+<ows:Title>防災関連_阿蘇山の火山活動_2015/09/07-2015/09/21_DR</ows:Title>
+<ows:Identifier>20150907_20150921_u07r_sar_asosan</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13739,11 +13775,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/eathquake/20141122_naganohokubu/2014.09.19_2014.11.28/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150907_20150921_u07r_sar_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_長野県北部地震_干渉SAR_2014/10/02-2014/11/27_DL</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.10.02-2014.11.27</ows:Identifier>
+<ows:Title>防災関連_阿蘇山の火山活動_2015/07/06-2015/09/14_DL</ows:Title>
+<ows:Identifier>20150706_20150914_u13l_sar_asosan</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13751,155 +13787,23 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141002-1127d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150706_20150914_u13l_sar_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_長野県北部地震_干渉SAR_2014/10/14-2014/11/25_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.10.14-2014.11.25</ows:Identifier>
+<ows:Title>防災関連_阿蘇山の火山活動_2015/02/23-2015/09/07_DR</ows:Title>
+<ows:Identifier>20150223_20150907_u07r_sar_asosan</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z5to14</TileMatrixSet>
+<TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141014-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150223_20150907_u07r_sar_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_長野県北部地震_干渉SAR_2014/09/30-2014/11/25_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.30-2014.11.25</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to14</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_長野県北部地震_干渉SAR_2014/09/29-2014/11/24_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.29-2014.11.24</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to14</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929-1124d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_正射画像(9/28)</ows:Title>
-<ows:Identifier>20140928dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140928dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_正射画像(9/29)</ows:Title>
-<ows:Identifier>20140929dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_航空機SAR画像(9/29)</ows:Title>
-<ows:Identifier>20140929dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_航空機SAR画像(9/30)</ows:Title>
-<ows:Identifier>20140930dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_干渉SAR(8/18-9/29)</ows:Title>
-<ows:Identifier>201408180929sar1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818-0929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_干渉SAR(8/22-10/3)</ows:Title>
-<ows:Identifier>201408221003sar1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_衛星SAR強度画像(8/18)</ows:Title>
-<ows:Identifier>20140818d_mag_ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_衛星SAR強度画像(9/29)</ows:Title>
-<ows:Identifier>20140929d_mag_ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_火山基本図</ows:Title>
-<ows:Identifier>vbm1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm25ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_火山基本図(透過)</ows:Title>
-<ows:Identifier>vbmtouka1409ontake</ows:Identifier>
+<ows:Title>防災関連_阿蘇山の火山活動_過去の簡易空中写真（2013年）</ows:Title>
+<ows:Identifier>2013_s-ortho_asosan</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13907,235 +13811,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140927d_vlcd_t_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_火山土地条件図</ows:Title>
-<ows:Identifier>volcano1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD/00ontakesan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_御嶽山噴火活動_過去の正射画像(1974年～1978年)</ows:Title>
-<ows:Identifier>yk74_1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_正射画像(8/28)</ows:Title>
-<ows:Identifier>20140828dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140828dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_正射画像(8/30)</ows:Title>
-<ows:Identifier>20140830dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140830dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_正射画像(8/30・31)</ows:Title>
-<ows:Identifier>20140831dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140831dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐南区八木)</ows:Title>
-<ows:Identifier>20140820dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐南区山本)</ows:Title>
-<ows:Identifier>20140820dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐北区可部)</ows:Title>
-<ows:Identifier>20140820dol3</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol3/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_数値地図25000(土地条件)</ows:Title>
-<ows:Identifier>LCM25K_2012_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z4to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCM25K_2012/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_治水地形分類図・更新版</ows:Title>
-<ows:Identifier>LCMFC02_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCMFC02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(1947～1948年)</ows:Title>
-<ows:Identifier>19480000dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/19480000dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(1962年)</ows:Title>
-<ows:Identifier>19620000dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/19620000dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(1974～1978年)</ows:Title>
-<ows:Identifier>yk74_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(1979～1983年)</ows:Title>
-<ows:Identifier>yk79_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo2/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(1988～1990年)</ows:Title>
-<ows:Identifier>yk88_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo4/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_広島市内_過去の正射画像(2007年～)</ows:Title>
-<ows:Identifier>y2k7_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ort/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_8月16日からの大雨_丹波市市島地区_正射画像(8/19)</ows:Title>
-<ows:Identifier>20140819dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140819dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_台風第11号等による大雨_正射画像 (8/13)</ows:Title>
-<ows:Identifier>20140813dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140813dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_台風第8号等による大雨_斜め写真による正射画像（7/11)</ows:Title>
-<ows:Identifier>seisya20140711dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z8to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140711dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.7.28（無人航空機（UAV）撮影）</ows:Title>
@@ -14340,6 +14016,30 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131204doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.10.11</ows:Title>
+<ows:Identifier>20151011lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151011lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.9.25</ows:Title>
+<ows:Identifier>20150925lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150925lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.8.24</ows:Title>
@@ -14642,7 +14342,439 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20130903lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_正射画像（H24.4）</ows:Title>
+<ows:Title>防災関連_平成26年度_長野県北部地震_都市圏活断層図</ows:Title>
+<ows:Identifier>fm1411nagano</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/AFM/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_過去の空中写真（2004年～）</ows:Title>
+<ows:Identifier>airphoto1411nagano</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/19-2014/11/28_AR</ows:Title>
+<ows:Identifier>BUILD_NGN__http2014.09.19-2014.11.28</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/eathquake/20141122_naganohokubu/2014.09.19_2014.11.28/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/10/02-2014/11/27_DL</ows:Title>
+<ows:Identifier>BUILD_NGN__http2014.10.02-2014.11.27</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141002-1127d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/10/14-2014/11/25_DR</ows:Title>
+<ows:Identifier>BUILD_NGN__http2014.10.14-2014.11.25</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to14</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141014-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/30-2014/11/25_DR</ows:Title>
+<ows:Identifier>BUILD_NGN__http2014.09.30-2014.11.25</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to14</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/29-2014/11/24_DR</ows:Title>
+<ows:Identifier>BUILD_NGN__http2014.09.29-2014.11.24</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to14</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929-1124d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_正射画像(9/28)</ows:Title>
+<ows:Identifier>20140928dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140928dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_正射画像(9/29)</ows:Title>
+<ows:Identifier>20140929dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_航空機SAR画像(9/29)</ows:Title>
+<ows:Identifier>20140929dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_航空機SAR画像(9/30)</ows:Title>
+<ows:Identifier>20140930dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_干渉SAR(8/18-9/29)</ows:Title>
+<ows:Identifier>201408180929sar1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818-0929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_干渉SAR(8/22-10/3)</ows:Title>
+<ows:Identifier>201408221003sar1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_衛星SAR強度画像(8/18)</ows:Title>
+<ows:Identifier>20140818d_mag_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_衛星SAR強度画像(9/29)</ows:Title>
+<ows:Identifier>20140929d_mag_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山基本図</ows:Title>
+<ows:Identifier>vbm1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm25ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山基本図(透過)</ows:Title>
+<ows:Identifier>vbmtouka1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140927d_vlcd_t_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山土地条件図</ows:Title>
+<ows:Identifier>volcano1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD/00ontakesan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_御嶽山噴火活動_過去の正射画像(1974年～1978年)</ows:Title>
+<ows:Identifier>yk74_1409ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_正射画像(8/28)</ows:Title>
+<ows:Identifier>20140828dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140828dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_正射画像(8/30)</ows:Title>
+<ows:Identifier>20140830dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140830dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_正射画像(8/30・31)</ows:Title>
+<ows:Identifier>20140831dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140831dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐南区八木)</ows:Title>
+<ows:Identifier>20140820dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐南区山本)</ows:Title>
+<ows:Identifier>20140820dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_斜め写真による正射画像_斜め写真による正射画像(8/20 安佐北区可部)</ows:Title>
+<ows:Identifier>20140820dol3</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol3/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_数値地図25000(土地条件)</ows:Title>
+<ows:Identifier>LCM25K_2012_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCM25K_2012/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_治水地形分類図・更新版</ows:Title>
+<ows:Identifier>LCMFC02_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCMFC02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1947～1948年)</ows:Title>
+<ows:Identifier>19480000dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/19480000dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1962年)</ows:Title>
+<ows:Identifier>19620000dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/19620000dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1974～1978年)</ows:Title>
+<ows:Identifier>yk74_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1979～1983年)</ows:Title>
+<ows:Identifier>yk79_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo2/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1988～1990年)</ows:Title>
+<ows:Identifier>yk88_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo4/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(2007年～)</ows:Title>
+<ows:Identifier>y2k7_2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ort/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_8月16日からの大雨_丹波市市島地区_正射画像(8/19)</ows:Title>
+<ows:Identifier>20140819dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140819dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_台風第11号等による大雨_正射画像 (8/13)</ows:Title>
+<ows:Identifier>20140813dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140813dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成26年度_台風第8号等による大雨_斜め写真による正射画像（7/11)</ows:Title>
+<ows:Identifier>seisya20140711dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140711dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（H24.4）</ows:Title>
 <ows:Identifier>laserortho1204</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14654,7 +14786,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/201204dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_正射画像（10/17）</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（10/17）</ows:Title>
 <ows:Identifier>seisya1310typhoon26</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14666,7 +14798,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131017dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_正射画像（10/28）</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（10/28）</ows:Title>
 <ows:Identifier>seisya1310typhoon27</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14678,7 +14810,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131017dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_火山土地条件図</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山土地条件図</ows:Title>
 <ows:Identifier>izuoshima2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14690,7 +14822,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD/13izuoshima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_火山基本図</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山基本図</ows:Title>
 <ows:Identifier>izuoshima_kihon3</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14702,7 +14834,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm22izuoshima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_火山基本図（透過）</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山基本図（透過）</ows:Title>
 <ows:Identifier>izuoshima_kihon2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14714,7 +14846,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/izuoshima/vbm2_izuoshima_chocolate/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年台風第26・27号の大雨_色別標高図</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_色別標高図</ows:Title>
 <ows:Identifier>relief2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14726,7 +14858,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/relief/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年9月2日からの突風_正射画像(9/9)</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年9月2日からの突風_正射画像(9/9)</ows:Title>
 <ows:Identifier>seisya1309saitama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14738,7 +14870,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20130902dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(7/31)</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(7/31)</ows:Title>
 <ows:Identifier>seisya1307yamaguchi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14750,7 +14882,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20130717dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(8/7)</ows:Title>
+<ows:Title>防災関連_平成25年度_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(8/7)</ows:Title>
 <ows:Identifier>seisya1307yamaguchi2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
