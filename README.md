@@ -8,6 +8,9 @@
 WMTSメタデータ：
 http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml
 
+WMTSメタデータ(軽量版)：
+http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts_light.xml
+
 WMTSバージョン：
 OpenGIS Web Map Tile Service Implementation Standard (Version1.0.0)
 http://www.opengeospatial.org/standards/wmts
@@ -18,6 +21,9 @@ http://www.opengeospatial.org/standards/wmts
 
 WMTSメタデータ作成ツール：
 http://gsi-cyberjapan.github.io/experimental_wmts/
+
+WMTSメタデータ作成ツール(軽量版)：
+http://gsi-cyberjapan.github.io/experimental_wmts/index_light.xml
 
 ウェブ地図レイヤ定義 layers.txt 規約：
 https://github.com/gsi-cyberjapan/layers-dot-txt-spec
