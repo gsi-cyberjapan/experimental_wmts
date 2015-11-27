@@ -23,7 +23,7 @@ WMTSメタデータ作成ツール：
 http://gsi-cyberjapan.github.io/experimental_wmts/
 
 WMTSメタデータ作成ツール(軽量版)：
-http://gsi-cyberjapan.github.io/experimental_wmts/index_light.xml
+http://gsi-cyberjapan.github.io/experimental_wmts/index_light.html
 
 ウェブ地図レイヤ定義 layers.txt 規約：
 https://github.com/gsi-cyberjapan/layers-dot-txt-spec
