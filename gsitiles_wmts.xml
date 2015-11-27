@@ -218,8 +218,8 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/relief/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地図・空中写真_都市圏活断層図</ows:Title>
-<ows:Identifier>fm</ows:Identifier>
+<ows:Title>地図・空中写真_都市圏活断層図_都市圏活断層図</ows:Title>
+<ows:Identifier>afm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -227,7 +227,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/AFM/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/afm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_明治期の低湿地</ows:Title>
@@ -2004,6 +2004,18 @@
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_10月更新</ows:Title>
+<ows:Identifier>kiban_koushin2015_10</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2014年更新情報_10月更新</ows:Title>
@@ -13130,6 +13142,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_箱根山の火山活動_2015/07/05-2015/11/08_AR</ows:Title>
+<ows:Identifier>20150705_20151108_u06r_sar_hakoneyama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150705-20151108_u06r_sar_hakoneyama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/08/27-2015/10/22_DR</ows:Title>
 <ows:Identifier>20150827_20151022_u09r_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
@@ -14892,6 +14916,18 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20130717dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>他機関の情報_人口集中地区Ｈ２２年（総務省統計局）</ows:Title>
+<ows:Identifier>did2010</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/did2010/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <TileMatrixSet>
 <ows:Identifier>z2to18</ows:Identifier>
