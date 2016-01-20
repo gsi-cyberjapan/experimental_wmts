@@ -13838,6 +13838,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.12.9</ows:Title>
+<ows:Identifier>20151209dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151209dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.7.28（無人航空機（UAV）撮影）</ows:Title>
 <ows:Identifier>20150728dol</ows:Identifier>
 <Style isDefault="true">
@@ -13946,6 +13958,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.12.9</ows:Title>
+<ows:Identifier>20151209doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151209doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.7.28(無人航空機(UAV)撮影)</ows:Title>
 <ows:Identifier>handoku20150728dol2</ows:Identifier>
 <Style isDefault="true">
@@ -14040,6 +14064,30 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20131204doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.12.14</ows:Title>
+<ows:Identifier>20151214lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151214lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.11.12</ows:Title>
+<ows:Identifier>20151112lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151112lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2015.10.11</ows:Title>
@@ -14925,7 +14973,7 @@
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z8to16</TileMatrixSet>
+<TileMatrixSet>z8to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/did2010/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
@@ -15033,7 +15081,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15060,7 +15108,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15100,7 +15148,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15127,7 +15175,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15230,7 +15278,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15319,7 +15367,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15346,7 +15394,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15467,7 +15515,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15494,7 +15542,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15588,7 +15636,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15615,7 +15663,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15745,7 +15793,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15772,7 +15820,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15857,7 +15905,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15884,7 +15932,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -15978,7 +16026,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16005,7 +16053,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16340,7 +16388,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16528,7 +16576,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16653,7 +16701,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16738,7 +16786,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16917,7 +16965,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -16944,7 +16992,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17011,7 +17059,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17087,7 +17135,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17114,7 +17162,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17145,7 +17193,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17221,7 +17269,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17248,7 +17296,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17324,7 +17372,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17351,7 +17399,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17373,7 +17421,7 @@
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17400,7 +17448,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17449,7 +17497,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17476,7 +17524,65 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>18</ows:Identifier>
+<ScaleDenominator>2132.729583849784</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>262144</MatrixWidth>
+<MatrixHeight>262144</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z13to18</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17516,7 +17622,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17547,7 +17653,7 @@
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17574,7 +17680,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17641,7 +17747,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17668,7 +17774,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17789,7 +17895,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<ScaleDenominator>68247.34668319308</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
@@ -17816,7 +17922,7 @@
 </TileMatrix>
 <TileMatrix>
 <ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<ScaleDenominator>8530.918335399135</ScaleDenominator>
 <TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
 <TileWidth>256</TileWidth>
 <TileHeight>256</TileHeight>
