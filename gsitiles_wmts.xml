@@ -1970,6 +1970,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/KIBANCHIZU/10m_kazan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2016年更新情報_1月更新</ows:Title>
+<ows:Identifier>kiban_koushin2016_01</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2016-01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_1月更新</ows:Title>
 <ows:Identifier>kiban_koushin2015_01</ows:Identifier>
 <Style isDefault="true">
