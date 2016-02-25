@@ -13526,6 +13526,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150524-20150607u06r_sar_asamayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/11/30～2016/02/08_DR</ows:Title>
+<ows:Identifier>20151130_20160208_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20151130_20160208_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/24～2016/02/08_DR</ows:Title>
+<ows:Identifier>20150824_20160208_sar_sakurajima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20150824_20160208_sar_sakurajima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_桜島の火山活動_SAR解析結果_2015/08/24-2015/09/07_DR</ows:Title>
 <ows:Identifier>20150824_20150907_u07r_sar_sakurajima</ows:Identifier>
 <Style isDefault="true">
@@ -13848,6 +13872,30 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2015/11/06～2016/02/12_AR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20151105_20160211_u06r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20151105_20160211_u06r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2015/09/21～2015/11/30_DR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20150921_20151130_u07r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20150921_20151130_u07r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2015.12.9</ows:Title>
