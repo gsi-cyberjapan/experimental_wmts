@@ -51,7 +51,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_写真_最新（2007年～）</ows:Title>
-<ows:Identifier>y2k7</ows:Identifier>
+<ows:Identifier>_ort</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -63,7 +63,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_写真_1988年～1990年</ows:Title>
-<ows:Identifier>yk88</ows:Identifier>
+<ows:Identifier>gazo4</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -75,7 +75,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_写真_1984年～1987年</ows:Title>
-<ows:Identifier>yk84</ows:Identifier>
+<ows:Identifier>gazo3</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -87,7 +87,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_写真_1979年～1983年</ows:Title>
-<ows:Identifier>yk79</ows:Identifier>
+<ows:Identifier>gazo2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -99,7 +99,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_写真_1974年～1978年</ows:Title>
-<ows:Identifier>yk74</ows:Identifier>
+<ows:Identifier>gazo1</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -231,7 +231,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_明治期の低湿地</ows:Title>
-<ows:Identifier>meijiswale</ows:Identifier>
+<ows:Identifier>swale</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -263,7 +263,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCM25K/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lcm25k/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_沿岸海域土地条件図_平成元年以降</ows:Title>
@@ -275,7 +275,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/CCM1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ccm2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_沿岸海域土地条件図_昭和63年以前</ows:Title>
@@ -287,11 +287,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/CCM2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ccm1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_治水地形分類図_初版(1976～1978年)</ows:Title>
-<ows:Identifier>LCMFC01</ows:Identifier>
+<ows:Identifier>lcmfc1</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -299,11 +299,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCMFC01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lcmfc1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_治水地形分類図_更新版(2007～2014年)</ows:Title>
-<ows:Identifier>LCMFC02</ows:Identifier>
+<ows:Identifier>lcmfc2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -311,7 +311,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCMFC02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lcmfc2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_火山土地条件図</ows:Title>
@@ -323,7 +323,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_火山基本図</ows:Title>
@@ -335,11 +335,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_地球地図_地球地図全球版_土地被覆(GLCNMO)</ows:Title>
-<ows:Identifier>GLCNMO2</ows:Identifier>
+<ows:Identifier>glcnmo2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -347,11 +347,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to7</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/GMLD_glcnmo2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gmld_glcnmo2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_地球地図_地球地図全球版_植生(樹木被覆率)</ows:Title>
-<ows:Identifier>PTC2</ows:Identifier>
+<ows:Identifier>ptc2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -359,11 +359,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to7</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/GMLD_ptc2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gmld_ptc2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2012_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2012_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -371,11 +371,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201212/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2012_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2012_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -383,11 +383,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201211/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2012_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2012_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -395,7 +395,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201210/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_9月</ows:Title>
@@ -407,7 +407,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201209/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_8月</ows:Title>
@@ -419,7 +419,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201208/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_7月</ows:Title>
@@ -431,7 +431,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201207/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_6月</ows:Title>
@@ -443,7 +443,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201206/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_5月</ows:Title>
@@ -455,7 +455,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201205/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_4月</ows:Title>
@@ -467,7 +467,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201204/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_3月</ows:Title>
@@ -479,7 +479,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201203/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_2月</ows:Title>
@@ -491,7 +491,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201202/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2012年_1月</ows:Title>
@@ -503,11 +503,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201201/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2012_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2011_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2011_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -515,11 +515,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201112/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2011_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2011_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -527,11 +527,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201111/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2011_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2011_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -539,7 +539,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201110/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_9月</ows:Title>
@@ -551,7 +551,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201109/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_8月</ows:Title>
@@ -563,7 +563,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201108/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_7月</ows:Title>
@@ -575,7 +575,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201107/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_6月</ows:Title>
@@ -587,7 +587,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201106/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_5月</ows:Title>
@@ -599,7 +599,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201105/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_4月</ows:Title>
@@ -611,7 +611,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201104/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_3月</ows:Title>
@@ -623,7 +623,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201103/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_2月</ows:Title>
@@ -635,7 +635,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201102/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2011年_1月</ows:Title>
@@ -647,11 +647,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201101/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2011_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2010_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2010_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -659,11 +659,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201012/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2010_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2010_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -671,11 +671,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201011/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2010_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2010_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -683,7 +683,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201010/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_9月</ows:Title>
@@ -695,7 +695,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201009/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_8月</ows:Title>
@@ -707,7 +707,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201008/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_7月</ows:Title>
@@ -719,7 +719,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201007/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_6月</ows:Title>
@@ -731,7 +731,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201006/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_5月</ows:Title>
@@ -743,7 +743,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201005/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_4月</ows:Title>
@@ -755,7 +755,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201004/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_3月</ows:Title>
@@ -767,7 +767,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201003/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_2月</ows:Title>
@@ -779,7 +779,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201002/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2010年_1月</ows:Title>
@@ -791,11 +791,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/201001/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2010_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2009_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2009_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -803,11 +803,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200912/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2009_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2009_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -815,11 +815,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200911/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2009_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2009_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -827,7 +827,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200910/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_9月</ows:Title>
@@ -839,7 +839,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200909/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_8月</ows:Title>
@@ -851,7 +851,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200908/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_7月</ows:Title>
@@ -863,7 +863,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200907/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_6月</ows:Title>
@@ -875,7 +875,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200906/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_5月</ows:Title>
@@ -887,7 +887,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200905/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_4月</ows:Title>
@@ -899,7 +899,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200904/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_3月</ows:Title>
@@ -911,7 +911,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200903/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_2月</ows:Title>
@@ -923,7 +923,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200902/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2009年_1月</ows:Title>
@@ -935,11 +935,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200901/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2009_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2008_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2008_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -947,11 +947,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200812/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2008_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2008_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -959,11 +959,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200811/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2008_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2008_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -971,7 +971,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200810/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_9月</ows:Title>
@@ -983,7 +983,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200809/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_8月</ows:Title>
@@ -995,7 +995,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200808/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_7月</ows:Title>
@@ -1007,7 +1007,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200807/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_6月</ows:Title>
@@ -1019,7 +1019,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200806/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_5月</ows:Title>
@@ -1031,7 +1031,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200805/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_4月</ows:Title>
@@ -1043,7 +1043,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200804/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_3月</ows:Title>
@@ -1055,7 +1055,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200803/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_2月</ows:Title>
@@ -1067,7 +1067,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200802/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2008年_1月</ows:Title>
@@ -1079,11 +1079,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200801/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2008_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2007_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2007_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1091,11 +1091,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200712/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2007_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2007_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1103,11 +1103,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200711/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2007_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2007_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1115,7 +1115,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200710/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_9月</ows:Title>
@@ -1127,7 +1127,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200709/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_8月</ows:Title>
@@ -1139,7 +1139,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200708/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_7月</ows:Title>
@@ -1151,7 +1151,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200707/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_6月</ows:Title>
@@ -1163,7 +1163,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200706/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_5月</ows:Title>
@@ -1175,7 +1175,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200705/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_4月</ows:Title>
@@ -1187,7 +1187,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200704/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_3月</ows:Title>
@@ -1199,7 +1199,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200703/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_2月</ows:Title>
@@ -1211,7 +1211,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200702/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2007年_1月</ows:Title>
@@ -1223,11 +1223,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200701/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2007_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2006_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2006_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1235,11 +1235,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200612/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2006_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2006_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1247,11 +1247,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200611/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2006_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2006_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1259,7 +1259,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200610/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_9月</ows:Title>
@@ -1271,7 +1271,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200609/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_8月</ows:Title>
@@ -1283,7 +1283,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200608/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_7月</ows:Title>
@@ -1295,7 +1295,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200607/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_6月</ows:Title>
@@ -1307,7 +1307,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200606/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_5月</ows:Title>
@@ -1319,7 +1319,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200605/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_4月</ows:Title>
@@ -1331,7 +1331,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200604/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_3月</ows:Title>
@@ -1343,7 +1343,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200603/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_2月</ows:Title>
@@ -1355,7 +1355,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200602/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2006年_1月</ows:Title>
@@ -1367,11 +1367,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200601/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2006_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2005_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2005_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1379,11 +1379,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200512/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2005_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2005_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1391,11 +1391,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200511/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2005_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2005_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1403,7 +1403,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200510/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_9月</ows:Title>
@@ -1415,7 +1415,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200509/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_8月</ows:Title>
@@ -1427,7 +1427,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200508/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_7月</ows:Title>
@@ -1439,7 +1439,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200507/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_6月</ows:Title>
@@ -1451,7 +1451,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200506/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_5月</ows:Title>
@@ -1463,7 +1463,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200505/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_4月</ows:Title>
@@ -1475,7 +1475,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200504/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_3月</ows:Title>
@@ -1487,7 +1487,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200503/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_03/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_2月</ows:Title>
@@ -1499,7 +1499,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200502/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2005年_1月</ows:Title>
@@ -1511,11 +1511,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200501/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2005_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_12月</ows:Title>
-<ows:Identifier>NDVI250m_2004_12</ows:Identifier>
+<ows:Identifier>ndvi_250m_2004_12</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1523,11 +1523,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200412/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_12/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_11月</ows:Title>
-<ows:Identifier>NDVI250m_2004_11</ows:Identifier>
+<ows:Identifier>ndvi_250m_2004_11</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1535,11 +1535,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200411/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_11/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_10月</ows:Title>
-<ows:Identifier>NDVI250m_2004_10</ows:Identifier>
+<ows:Identifier>ndvi_250m_2004_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1547,7 +1547,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200410/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_9月</ows:Title>
@@ -1559,7 +1559,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200409/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_09/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_8月</ows:Title>
@@ -1571,7 +1571,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200408/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_08/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_7月</ows:Title>
@@ -1583,7 +1583,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200407/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_6月</ows:Title>
@@ -1595,7 +1595,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200406/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_5月</ows:Title>
@@ -1607,7 +1607,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200405/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_全国植生指標データ（250m）_2004年_4月</ows:Title>
@@ -1619,7 +1619,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z3to10</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/NDVI_250m/200404/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ndvi_250m_2004_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_世界衛星モザイク画像</ows:Title>
@@ -1655,11 +1655,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z11to14</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM200K/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum200k/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_2005年</ows:Title>
-<ows:Identifier>capital2005</ows:Identifier>
+<ows:Identifier>lum4bl_capital2005</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1671,7 +1671,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_2000年</ows:Title>
-<ows:Identifier>capital2000</ows:Identifier>
+<ows:Identifier>lum4bl_capital2000</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1683,7 +1683,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_1994年</ows:Title>
-<ows:Identifier>capital1994</ows:Identifier>
+<ows:Identifier>lum4bl_capital1994</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1691,11 +1691,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/capital1994/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1994/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_1989年</ows:Title>
-<ows:Identifier>capital1989</ows:Identifier>
+<ows:Identifier>lum4bl_capital1989</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1703,11 +1703,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/capital1989/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1989/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_1984年</ows:Title>
-<ows:Identifier>capital1984</ows:Identifier>
+<ows:Identifier>lum4bl_capital1984</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1715,11 +1715,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/capital1984/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1984/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_1979年</ows:Title>
-<ows:Identifier>capital1979</ows:Identifier>
+<ows:Identifier>lum4bl_capital1979</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1727,11 +1727,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/capital1979/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1979/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_首都圏_1974年</ows:Title>
-<ows:Identifier>capital1974</ows:Identifier>
+<ows:Identifier>lum4bl_capital1974</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1739,11 +1739,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/capital1974/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital1974/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_2003年</ows:Title>
-<ows:Identifier>chubu2003</ows:Identifier>
+<ows:Identifier>lum4bl_chubu2003</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1755,7 +1755,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_1997年</ows:Title>
-<ows:Identifier>chubu1997</ows:Identifier>
+<ows:Identifier>lum4bl_chubu1997</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1763,11 +1763,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/chubu1997/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu1997/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_1991年</ows:Title>
-<ows:Identifier>chubu1991</ows:Identifier>
+<ows:Identifier>lum4bl_chubu1991</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1775,11 +1775,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/chubu1991/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu1991/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_1987年</ows:Title>
-<ows:Identifier>chubu1987</ows:Identifier>
+<ows:Identifier>lum4bl_chubu1987</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1787,11 +1787,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/chubu1987/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu1987/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_1982年</ows:Title>
-<ows:Identifier>chubu1982</ows:Identifier>
+<ows:Identifier>lum4bl_chubu1982</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1799,11 +1799,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/chubu1982/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu1982/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_中部圏_1977年</ows:Title>
-<ows:Identifier>chubu1977</ows:Identifier>
+<ows:Identifier>lum4bl_chubu1977</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1811,11 +1811,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/chubu1977/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_chubu1977/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_2008年</ows:Title>
-<ows:Identifier>kinki2008</ows:Identifier>
+<ows:Identifier>lum4bl_kinki2008</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1827,7 +1827,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_2001年</ows:Title>
-<ows:Identifier>kinki2001</ows:Identifier>
+<ows:Identifier>lum4bl_kinki2001</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1839,7 +1839,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_1996年</ows:Title>
-<ows:Identifier>kinki1996</ows:Identifier>
+<ows:Identifier>lum4bl_kinki1996</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1847,11 +1847,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/kinki1996/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1996/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_1991年</ows:Title>
-<ows:Identifier>kinki1991</ows:Identifier>
+<ows:Identifier>lum4bl_kinki1991</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1859,11 +1859,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/kinki1991/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1991/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_1985年</ows:Title>
-<ows:Identifier>kinki1985</ows:Identifier>
+<ows:Identifier>lum4bl_kinki1985</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1871,11 +1871,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/kinki1985/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1985/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_1979年</ows:Title>
-<ows:Identifier>kinki1979</ows:Identifier>
+<ows:Identifier>lum4bl_kinki1979</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1883,11 +1883,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/kinki1979/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1979/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_宅地利用動向調査_近畿圏_1974年</ows:Title>
-<ows:Identifier>kinki1974</ows:Identifier>
+<ows:Identifier>lum4bl_kinki1974</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1895,7 +1895,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LUM4BL/kinki1974/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_kinki1974/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_湖沼図_平成3年以降</ows:Title>
@@ -1907,7 +1907,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LAKE2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lake2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_湖沼図_平成2年以前</ows:Title>
@@ -1919,11 +1919,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LAKE1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lake1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報の提供地域_縮尺2500分1相当以上の概ねの範囲</ows:Title>
-<ows:Identifier>fgd1_2</ows:Identifier>
+<ows:Identifier>fgd_2500_area</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1931,11 +1931,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報の提供地域_5mメッシュDEM（航空レーザー測量）</ows:Title>
-<ows:Identifier>fgd2</ows:Identifier>
+<ows:Identifier>fgd_dem5a_area</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1943,11 +1943,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/KIBANCHIZU/5m_laser/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_dem5a_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報の提供地域_5mメッシュDEM（写真測量）</ows:Title>
-<ows:Identifier>fgd3</ows:Identifier>
+<ows:Identifier>fgd_dem5b_area</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1955,11 +1955,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/KIBANCHIZU/5m_syashin/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_dem5b_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報の提供地域_10mメッシュDEM（火山基本図）</ows:Title>
-<ows:Identifier>fgd5</ows:Identifier>
+<ows:Identifier>fgd_dem10a_area</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1967,7 +1967,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/KIBANCHIZU/10m_kazan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_dem10a_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2016年更新情報_1月更新</ows:Title>
@@ -1983,7 +1983,7 @@
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_1月更新</ows:Title>
-<ows:Identifier>kiban_koushin2015_01</ows:Identifier>
+<ows:Identifier>fgd_update_2015_01</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -1991,11 +1991,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2015_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_4月更新</ows:Title>
-<ows:Identifier>kiban_koushin2015_04</ows:Identifier>
+<ows:Identifier>fgd_update_2015_01</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2003,11 +2003,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2015_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_7月更新</ows:Title>
-<ows:Identifier>kiban_koushin2015_07</ows:Identifier>
+<ows:Identifier>fgd_update_2015_01</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2015,11 +2015,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2015_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2015年更新情報_10月更新</ows:Title>
-<ows:Identifier>kiban_koushin2015_10</ows:Identifier>
+<ows:Identifier>fgd_update_2015_01</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2027,11 +2027,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2015-10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2015_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図・空中写真_基盤地図情報_基盤地図情報更新情報_2014年更新情報_10月更新</ows:Title>
-<ows:Identifier>kiban_koushin2014_10</ows:Identifier>
+<ows:Identifier>fgd_update_2015_01</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2039,7 +2039,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update/2014-10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2014_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>基準点・測地観測_磁気図2010.0年値_偏角図/偏角一覧図</ows:Title>
@@ -13143,7 +13143,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_口永良部島の火山活動_過去の簡易空中写真（2012年4月）</ows:Title>
-<ows:Identifier>airphoto_kuchinoerabu</ows:Identifier>
+<ows:Identifier>_airphoto_2015_05</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13215,7 +13215,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_箱根山の火山活動_2015/08/06-2015/08/20_DL</ows:Title>
-<ows:Identifier>201500806-20150820d_sar_hakoneyama</ows:Identifier>
+<ows:Identifier>20150806-20150820_u10l_sar_hakoneyama</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13431,7 +13431,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_箱根山の火山活動_火山基本図「箱根山」</ows:Title>
-<ows:Identifier>VBM2_hakoneyama</ows:Identifier>
+<ows:Identifier>_vbm_2015_08</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13439,7 +13439,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z8to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm19hakone/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_浅間山の火山活動_2015/07/10-2015/07/24_AR</ows:Title>
@@ -13647,7 +13647,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_桜島の火山活動_火山土地条件図</ows:Title>
-<ows:Identifier>vlcd2</ows:Identifier>
+<ows:Identifier>_vlcd_2015_08</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13655,7 +13655,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_桜島の火山活動_火山災害対策用図（応急版）</ows:Title>
@@ -13874,6 +13874,42 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2016/02/08～2016/03/07_DR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20160208_20160307_u07r_ft05</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20160208_20160307_u07r_ft05/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2015/12/23～2016/03/02_AR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20151222_20160301_u09r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20151222_20160301_u09r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2015/08/19～2016/03/02_AR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20150818_20160301_u09r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20150818_20160301_u09r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>防災関連_霧島山の火山活動_SAR解析結果_2015/11/06～2016/02/12_AR</ows:Title>
 <ows:Identifier>urgent_volcano_kirishimayama_20151105_20160211_u06r</ows:Identifier>
 <Style isDefault="true">
@@ -13971,7 +14007,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2014.3.22（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>seisya1311nishinoshima4</ows:Identifier>
+<ows:Identifier>20140322dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13983,7 +14019,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2014.2.16</ows:Title>
-<ows:Identifier>seisya1311nishinoshima3</ows:Identifier>
+<ows:Identifier>20140216doh</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -13995,7 +14031,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2013.12.17</ows:Title>
-<ows:Identifier>seisya1311nishinoshima2</ows:Identifier>
+<ows:Identifier>20131217doh</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14007,7 +14043,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_正射画像_2013.12.4</ows:Title>
-<ows:Identifier>seisya1311nishinoshima</ows:Identifier>
+<ows:Identifier>20131204doh</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14031,7 +14067,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.7.28(無人航空機(UAV)撮影)</ows:Title>
-<ows:Identifier>handoku20150728dol2</ows:Identifier>
+<ows:Identifier>20150728dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14043,7 +14079,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2015.3.1(無人航空機(UAV)撮影)</ows:Title>
-<ows:Identifier>handoku20150301dol2</ows:Identifier>
+<ows:Identifier>20150301dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14055,7 +14091,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2014.12.10</ows:Title>
-<ows:Identifier>handoku20141210doh2</ows:Identifier>
+<ows:Identifier>20141210doh2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14067,7 +14103,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2014.7.4(無人航空機(UAV)撮影)</ows:Title>
-<ows:Identifier>handoku1311nishinoshima_20140704dol2</ows:Identifier>
+<ows:Identifier>20140704dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14079,7 +14115,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2014.3.22(無人航空機(UAV)撮影)</ows:Title>
-<ows:Identifier>handoku1311nishinoshima4</ows:Identifier>
+<ows:Identifier>20140322dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14091,7 +14127,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2014.2.16</ows:Title>
-<ows:Identifier>handoku1311nishinoshima3</ows:Identifier>
+<ows:Identifier>20140216doh2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14103,7 +14139,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2013.12.17</ows:Title>
-<ows:Identifier>handoku1311nishinoshima2</ows:Identifier>
+<ows:Identifier>20131217doh2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14115,7 +14151,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_（上載）地形判読図_2013.12.4</ows:Title>
-<ows:Identifier>handoku1311nishinoshima</ows:Identifier>
+<ows:Identifier>20131204doh2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14391,7 +14427,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2014.7.4</ows:Title>
-<ows:Identifier>lsi1311nishinoshima7</ows:Identifier>
+<ows:Identifier>20140704lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14403,7 +14439,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2014.6.2</ows:Title>
-<ows:Identifier>lsi1311nishinoshima6</ows:Identifier>
+<ows:Identifier>20140602lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14415,7 +14451,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2014.5.17</ows:Title>
-<ows:Identifier>lsi1311nishinoshima4</ows:Identifier>
+<ows:Identifier>20140517lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14427,7 +14463,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2014.3.30</ows:Title>
-<ows:Identifier>lsi1311nishinoshima3</ows:Identifier>
+<ows:Identifier>20140330lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14439,7 +14475,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2014.2.26</ows:Title>
-<ows:Identifier>lsi1311nishinoshima2</ows:Identifier>
+<ows:Identifier>20140226lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14463,7 +14499,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_西之島付近噴火活動_衛星画像_2013.9.3</ows:Title>
-<ows:Identifier>lsi1311nishinoshima5</ows:Identifier>
+<ows:Identifier>20130903lsi</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14474,32 +14510,8 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20130903lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成26年度_長野県北部地震_都市圏活断層図</ows:Title>
-<ows:Identifier>fm1411nagano</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/AFM/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_長野県北部地震_過去の空中写真（2004年～）</ows:Title>
-<ows:Identifier>airphoto1411nagano</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/19-2014/11/28_AR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.19-2014.11.28</ows:Identifier>
+<ows:Identifier>20140919-20141128_sar_naganohokubu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14507,11 +14519,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/SAR/eathquake/20141122_naganohokubu/2014.09.19_2014.11.28/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140919-20141128_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/10/02-2014/11/27_DL</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.10.02-2014.11.27</ows:Identifier>
+<ows:Identifier>20141002-20141127d_sar_naganohokubu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14519,11 +14531,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to15</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141002-1127d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141002-20141127d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/10/14-2014/11/25_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.10.14-2014.11.25</ows:Identifier>
+<ows:Identifier>20141014-20141125d_sar_naganohokubu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14531,11 +14543,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to14</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141014-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20141014-20141125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/30-2014/11/25_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.30-2014.11.25</ows:Identifier>
+<ows:Identifier>20140930-20141125d_sar_naganohokubu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14543,11 +14555,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to14</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930-1125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140930-20141125d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_長野県北部地震_干渉SAR_2014/09/29-2014/11/24_DR</ows:Title>
-<ows:Identifier>BUILD_NGN__http2014.09.29-2014.11.24</ows:Identifier>
+<ows:Identifier>20140929-20141124d_sar_naganohokubu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14555,7 +14567,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to14</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929-1124d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140929-20141124d_sar_naganohokubu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_正射画像(9/28)</ows:Title>
@@ -14607,7 +14619,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_干渉SAR(8/18-9/29)</ows:Title>
-<ows:Identifier>201408180929sar1409ontake</ows:Identifier>
+<ows:Identifier>20140818-20140929d_sar_ontake</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14615,11 +14627,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818-0929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140818-20140929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_干渉SAR(8/22-10/3)</ows:Title>
-<ows:Identifier>201408221003sar1409ontake</ows:Identifier>
+<ows:Identifier>20140822-20141003d_sar_ontake</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14627,7 +14639,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140822-20141003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_衛星SAR強度画像(8/18)</ows:Title>
@@ -14655,7 +14667,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山基本図</ows:Title>
-<ows:Identifier>vbm1409ontake</ows:Identifier>
+<ows:Identifier>_vbm_2014_09</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14663,11 +14675,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm25ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山基本図(透過)</ows:Title>
-<ows:Identifier>vbmtouka1409ontake</ows:Identifier>
+<ows:Identifier>20140927d_vlcd_t_ontake</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14679,7 +14691,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_御嶽山噴火活動_火山土地条件図</ows:Title>
-<ows:Identifier>volcano1409ontake</ows:Identifier>
+<ows:Identifier>_vlcd_2014_09</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14687,19 +14699,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD/00ontakesan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_御嶽山噴火活動_過去の正射画像(1974年～1978年)</ows:Title>
-<ows:Identifier>yk74_1409ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_正射画像(8/28)</ows:Title>
@@ -14774,30 +14774,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20140820dol3/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_数値地図25000(土地条件)</ows:Title>
-<ows:Identifier>LCM25K_2012_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z4to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCM25K_2012/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_治水地形分類図・更新版</ows:Title>
-<ows:Identifier>LCMFC02_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/LCMFC02/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1947～1948年)</ows:Title>
 <ows:Identifier>19480000dol</ows:Identifier>
 <Style isDefault="true">
@@ -14820,54 +14796,6 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/19620000dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1974～1978年)</ows:Title>
-<ows:Identifier>yk74_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1979～1983年)</ows:Title>
-<ows:Identifier>yk79_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo2/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(1988～1990年)</ows:Title>
-<ows:Identifier>yk88_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/gazo4/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成26年度_8月16日からの大雨_広島市内_過去の正射画像(2007年～)</ows:Title>
-<ows:Identifier>y2k7_2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/jpg</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/ort/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_8月16日からの大雨_丹波市市島地区_正射画像(8/19)</ows:Title>
@@ -14895,7 +14823,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成26年度_台風第8号等による大雨_斜め写真による正射画像（7/11)</ows:Title>
-<ows:Identifier>seisya20140711dol</ows:Identifier>
+<ows:Identifier>20140711dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14907,7 +14835,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（H24.4）</ows:Title>
-<ows:Identifier>laserortho1204</ows:Identifier>
+<ows:Identifier>_airphoto_2013_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14915,11 +14843,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z8to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/201204dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（10/17）</ows:Title>
-<ows:Identifier>seisya1310typhoon26</ows:Identifier>
+<ows:Identifier>20131017dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14931,7 +14859,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_正射画像（10/28）</ows:Title>
-<ows:Identifier>seisya1310typhoon27</ows:Identifier>
+<ows:Identifier>20131017dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14943,7 +14871,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山土地条件図</ows:Title>
-<ows:Identifier>izuoshima2</ows:Identifier>
+<ows:Identifier>_vlcd_2013_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14951,11 +14879,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VLCD/13izuoshima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山基本図</ows:Title>
-<ows:Identifier>izuoshima_kihon3</ows:Identifier>
+<ows:Identifier>_vbm_2013_10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14963,11 +14891,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z1to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/VBM/vbm22izuoshima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_火山基本図（透過）</ows:Title>
-<ows:Identifier>izuoshima_kihon2</ows:Identifier>
+<ows:Identifier>vbm_22izuoshima_chocolate</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -14975,23 +14903,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z8to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/izuoshima/vbm2_izuoshima_chocolate/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>防災関連_平成25年度_平成25年台風第26・27号の大雨_色別標高図</ows:Title>
-<ows:Identifier>relief2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/relief/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm_22izuoshima_chocolate/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年9月2日からの突風_正射画像(9/9)</ows:Title>
-<ows:Identifier>seisya1309saitama</ows:Identifier>
+<ows:Identifier>20130902dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -15003,7 +14919,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(7/31)</ows:Title>
-<ows:Identifier>seisya1307yamaguchi</ows:Identifier>
+<ows:Identifier>20130717dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -15015,7 +14931,7 @@
 </Layer>
 <Layer>
 <ows:Title>防災関連_平成25年度_平成25年7月17日からの大雨_山口地方「須佐地区」_正射画像(8/7)</ows:Title>
-<ows:Identifier>seisya1307yamaguchi2</ows:Identifier>
+<ows:Identifier>20130717dol2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
