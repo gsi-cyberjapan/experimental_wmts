@@ -13106,7 +13106,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20160414kumamoto_20141114_20160415_u06l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>災害対応_地震_平成28年熊本地震_SAR解析結果_活断層図<br>（地震調査研究推進本部）</ows:Title>
+<ows:Title>災害対応_地震_平成28年熊本地震_SAR解析結果_活断層図（地震調査研究推進本部）</ows:Title>
 <ows:Identifier>toshiken_katsudansouzu</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
