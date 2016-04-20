@@ -97,6 +97,17 @@ function layersearch(layerdata,parent){
  }
 }
 
+function escapesp(src){
+ if (!src) return;
+ var mk = {
+   "<" : "&lt;",
+   ">" : "&gt;",
+   "\"" : "&quot;",
+   "&" : "&amp;"
+ };
+ return src.replace(/[<>]/g, function(mt){return mk[mt];});
+}
+
 for ( var ti=0; ti<layerarray.length; ti++ ){
 
 var xhr = new XMLHttpRequest();
@@ -115,7 +126,7 @@ var tileext;
 if(ljson[i].url.match(/\{y\}\.png$/)){tileext = 'image/png';}else{tileext = 'image/jpg';}
 ljson[i].url = ljson[i].url.replace('{z}/{x}/{y}', '{TileMatrix}/{TileCol}/{TileRow}');
 outxml += '<Layer>' + "\n";
-outxml += '<ows:Title>' + ljson[i].title + '</ows:Title>' + "\n";
+outxml += '<ows:Title>' + escapesp(ljson[i].title) + '</ows:Title>' + "\n";
 outxml += '<ows:Identifier>' + ljson[i].id + '</ows:Identifier>' + "\n";
 outxml += '<Style isDefault="true">' + "\n";
 outxml += '<ows:Identifier>default</ows:Identifier>' + "\n";
