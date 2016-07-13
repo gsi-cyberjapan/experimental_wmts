@@ -12926,6 +12926,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>災害対応_地震_平成28年熊本地震_写真_正射画像_阿蘇3地区正射画像（7/5撮影）</ows:Title>
+<ows:Identifier>20160414kumamoto_0705dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_0705dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>災害対応_地震_平成28年熊本地震_写真_正射画像_南阿蘇河陽地区正射画像（5/31撮影）</ows:Title>
 <ows:Identifier>20160414kumamoto_0531dol</ows:Identifier>
 <Style isDefault="true">
