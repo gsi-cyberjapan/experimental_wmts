@@ -1934,6 +1934,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_dem10a_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>主題図_更新情報_基盤地図情報基本項目_2016年更新情報_7月更新</ows:Title>
+<ows:Identifier>fgd_update_2016_07</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2016_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>主題図_更新情報_基盤地図情報基本項目_2016年更新情報_4月更新</ows:Title>
 <ows:Identifier>fgd_update_2016_04</ows:Identifier>
 <Style isDefault="true">
