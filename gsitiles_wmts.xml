@@ -15890,6 +15890,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160830typhoon10_0907dol1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>平成28年台風第10号_小本川（岩手県岩泉町）_穴沢地区正射画像（10/7撮影）</ows:Title>
+<ows:Identifier>20160830typhoon10_1007dol1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160830typhoon10_1007dol1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>平成28年台風第10号_小本川（岩手県岩泉町）_鼠入地区正射画像（10/7撮影）</ows:Title>
+<ows:Identifier>20160830typhoon10_1007dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160830typhoon10_1007dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>平成28年台風第10号_小本川（岩手県岩泉町）_穴沢地区正射画像（9/7撮影）</ows:Title>
 <ows:Identifier>20160830typhoon10_0907dol2</ows:Identifier>
 <Style isDefault="true">
