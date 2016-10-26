@@ -15985,6 +15985,54 @@
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lcmfc1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
+<Layer>
+<ows:Title>平成28年鳥取県中部の地震_正射画像（10/22撮影）</ows:Title>
+<ows:Identifier>20161021tottori_1022dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20161021tottori_1022dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>平成28年鳥取県中部の地震_SAR解析結果_2016/05/23～2016/10/24_AR</ows:Title>
+<ows:Identifier>urgent_earthquake_20161021tottori_20160523_20161024_u06r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161021tottori_20160523_20161024_u06r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>平成28年鳥取県中部の地震_SAR解析結果_2014/12/07～2016/10/23_DL</ows:Title>
+<ows:Identifier>urgent_earthquake_20161021tottori_20141207_20161023_u07l</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to14</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161021tottori_20141207_20161023_u07l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>平成28年鳥取県中部の地震_SAR解析結果_2015/01/17～2016/10/22_AL</ows:Title>
+<ows:Identifier>urgent_earthquake_20161021tottori_20150117_20161022_u09l</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161021tottori_20150117_20161022_u09l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
 <TileMatrixSet>
 <ows:Identifier>z2to18</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
