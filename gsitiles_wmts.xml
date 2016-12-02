@@ -2030,6 +2030,66 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fgd_update_2014_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（偏角）／偏角一覧図</ows:Title>
+<ows:Identifier>jikizu2015_chijiki_d</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to13</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/jikizu2015_chijiki_d/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（伏角）</ows:Title>
+<ows:Identifier>jikizu2015_chijiki_i</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to8</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/jikizu2015_chijiki_i/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（全磁力）</ows:Title>
+<ows:Identifier></ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to8</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/jikizu2015_chijiki_f/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（水平分力）</ows:Title>
+<ows:Identifier></ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to8</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/jikizu2015_chijiki_h/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（鉛直分力）</ows:Title>
+<ows:Identifier></ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to8</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/jikizu2015_chijiki_z/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>基準点・測地観測_磁気図2010.0年値_偏角図/偏角一覧図</ows:Title>
 <ows:Identifier>jikizu_chijiki_d</ows:Identifier>
 <Style isDefault="true">
@@ -17604,6 +17664,55 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>8192</MatrixWidth>
 <MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z4to8</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>4</ows:Identifier>
+<ScaleDenominator>34942641.50179486</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16</MatrixWidth>
+<MatrixHeight>16</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>5</ows:Identifier>
+<ScaleDenominator>17471320.75089743</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32</MatrixWidth>
+<MatrixHeight>32</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>6</ows:Identifier>
+<ScaleDenominator>8735660.375448715</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>64</MatrixWidth>
+<MatrixHeight>64</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>7</ows:Identifier>
+<ScaleDenominator>4367830.187724357</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>128</MatrixWidth>
+<MatrixHeight>128</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
