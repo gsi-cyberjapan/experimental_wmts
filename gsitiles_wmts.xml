@@ -2055,7 +2055,7 @@
 </Layer>
 <Layer>
 <ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（全磁力）</ows:Title>
-<ows:Identifier></ows:Identifier>
+<ows:Identifier>jikizu2015_chijiki_f</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2067,7 +2067,7 @@
 </Layer>
 <Layer>
 <ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（水平分力）</ows:Title>
-<ows:Identifier></ows:Identifier>
+<ows:Identifier>jikizu2015_chijiki_h</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -2079,7 +2079,7 @@
 </Layer>
 <Layer>
 <ows:Title>基準点・測地観測_磁気図2015.0年値_磁気図（鉛直分力）</ows:Title>
-<ows:Identifier></ows:Identifier>
+<ows:Identifier>jikizu2015_chijiki_z</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
