@@ -50,6 +50,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/english/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>空中写真・衛星画像_シームレス空中写真</ows:Title>
+<ows:Identifier>seamlessphoto</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
 <ows:Title>空中写真・衛星画像_最新（2007年～）</ows:Title>
 <ows:Identifier>_ort</ows:Identifier>
 <Style isDefault="true">
