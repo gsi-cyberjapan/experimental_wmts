@@ -13022,6 +13022,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>災害対応_地震_平成28年熊本地震_応急復旧対策基図</ows:Title>
+<ows:Identifier>fukkyukizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/fukkyukizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>災害対応_地震_平成28年熊本地震_変動補正パラメータ_座標変換パラメータ</ows:Title>
 <ows:Identifier>20160414kumamoto_zahyo_param</ows:Identifier>
 <Style isDefault="true">
@@ -13452,6 +13464,18 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_relief_d/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>災害対応_地震_平成28年熊本地震_段彩図_布田川断層帯及び菊陽周辺標高差分段彩図</ows:Title>
+<ows:Identifier>20160414kumamoto_relief_d2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20160414kumamoto_relief_d2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>災害対応_地震_平成28年熊本地震_都市圏活断層図_都市圏活断層図</ows:Title>
@@ -16176,6 +16200,18 @@
 <TileMatrixSet>z5to12</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161021tottori_20150117_20161022_u09l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>平成28年茨城県北部の地震_干渉SAR 解析結果_2016/11/17～2016/12/29_DR</ows:Title>
+<ows:Identifier>urgent_earthquake_20161228ibaraki_20161117_20161229_u07r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161228ibaraki_20161117_20161229_u07r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <TileMatrixSet>
 <ows:Identifier>z2to18</ows:Identifier>
