@@ -16202,6 +16202,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/urgent_earthquake_20161021tottori_20150117_20161022_u09l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>平成28年茨城県北部の地震_正射画像（12/29撮影）</ows:Title>
+<ows:Identifier>20161228ibaraki_1229dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/20161228ibaraki_1229dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>平成28年茨城県北部の地震_干渉SAR 解析結果_2016/11/17～2016/12/29_DR</ows:Title>
 <ows:Identifier>urgent_earthquake_20161228ibaraki_20161117_20161229_u07r</ows:Identifier>
 <Style isDefault="true">
