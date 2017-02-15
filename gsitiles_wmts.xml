@@ -14486,7 +14486,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/vbm_19hakoneyama_csr/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>災害対応_火山_御嶽山_SAR解析結果_干渉SAR(8/22-10/3)</ows:Title>
+<ows:Title>災害対応_火山_御嶽山_SAR解析結果_2014/08/22～2014/10/03_AR</ows:Title>
 <ows:Identifier>20140822_1003d_sar_ontake</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14498,7 +14498,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>災害対応_火山_御嶽山_SAR解析結果_干渉SAR(8/18-9/29)</ows:Title>
+<ows:Title>災害対応_火山_御嶽山_SAR解析結果_2014/08/18～2014/09/29_AR</ows:Title>
 <ows:Identifier>20140818-0929d_sar_ontake</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
