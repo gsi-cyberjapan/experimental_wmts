@@ -614,7 +614,19 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lum200k/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>主題図_湖沼図_平成3年以降</ows:Title>
+<ows:Title>主題図_湖沼図・湖沼データ_湖沼データ</ows:Title>
+<ows:Identifier>lakedata</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lakedata/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>主題図_湖沼図・湖沼データ_湖沼図 平成3年以降</ows:Title>
 <ows:Identifier>lake2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -626,7 +638,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://cyberjapandata.gsi.go.jp/xyz/lake2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>主題図_湖沼図_平成2年以前</ows:Title>
+<ows:Title>主題図_湖沼図・湖沼データ_湖沼図 平成2年以前</ows:Title>
 <ows:Identifier>lake1</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
