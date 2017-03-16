@@ -27,7 +27,7 @@
     </div>
 
 <script>
-var layerarray = ['http://maps.gsi.go.jp/layers_txt/layers1.txt','http://maps.gsi.go.jp/layers_txt/layers2.txt','http://maps.gsi.go.jp/layers_txt/layers3.txt','http://maps.gsi.go.jp/layers_txt/layers4.txt','http://maps.gsi.go.jp/layers_txt/layers5.txt','http://maps.gsi.go.jp/layers_txt/layers_20160830typhoon10.txt','http://maps.gsi.go.jp/layers_txt/layers_20161021tottori.txt','http://maps.gsi.go.jp/layers_txt/layers_20161228ibaraki.txt','http://maps.gsi.go.jp/layers_txt/layers_20161222itoigawa.txt'];
+var layerarray = ['http://maps.gsi.go.jp/layers_txt/layers1.txt','http://maps.gsi.go.jp/layers_txt/layers2.txt','http://maps.gsi.go.jp/layers_txt/layers3.txt','http://maps.gsi.go.jp/layers_txt/layers4.txt','http://maps.gsi.go.jp/layers_txt/layers5.txt','http://maps.gsi.go.jp/layers_txt/layers_20160414kumamoto.txt','http://maps.gsi.go.jp/layers_txt/layers_20160830typhoon10.txt','http://maps.gsi.go.jp/layers_txt/layers_20160820typhoon11_9.txt','http://maps.gsi.go.jp/layers_txt/layers_20161021tottori.txt','http://maps.gsi.go.jp/layers_txt/layers_20161228ibaraki.txt','http://maps.gsi.go.jp/layers_txt/layers_20161222itoigawa.txt'];
 
 var outxml = '<?xml version="1.0" encoding="UTF-8"?>' + "\n";
 outxml += '<Capabilities xmlns="http://www.opengis.net/wmts/1.0" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/wmts/1.0 http://schemas.opengis.net/wmts/1.0/wmtsGetCapabilities_response.xsd" version="1.0.0">' + "\n";;
@@ -58,10 +58,11 @@ zoom18:2132.729583849784
 };
 
 var ljson = [
-              {title:"標準地図",id:"std",url:"http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",minZoom:2,maxNativeZoom:18},
-              {title:"淡色地図",id:"pale",url:"http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png",minZoom:12,maxNativeZoom:18},
-              {title:"白地図",id:"blank",url:"http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png",minZoom:5,maxNativeZoom:14},
-              {title:"English",id:"english",url:"http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png",minZoom:5,maxNativeZoom:8}
+              {title:"標準地図",id:"std",url:"https://maps.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",minZoom:2,maxNativeZoom:18},
+              {title:"淡色地図",id:"pale",url:"https://maps.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png",minZoom:12,maxNativeZoom:18},
+              {title:"白地図",id:"blank",url:"https://maps.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png",minZoom:5,maxNativeZoom:14},
+              {title:"English",id:"english",url:"https://maps.gsi.go.jp/xyz/english/{z}/{x}/{y}.png",minZoom:5,maxNativeZoom:8},
+              {title:"写真",id:"ort",url:"https://maps.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg",minZoom:2,maxNativeZoom:18}
              ];
 
 
@@ -72,6 +73,10 @@ function layersearch(layerdata,parent){
    layerdata[i].title = parent.title + "_" + layerdata[i].title;
   }
   if(layerdata[i].src){
+   if (layerdata[i].src.indexOf("://") < 0)
+   {
+   	continue;
+   }
    var xhr = new XMLHttpRequest();
    xhr.open('GET', layerdata[i].src, false);
    xhr.send(null);
