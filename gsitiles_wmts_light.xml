@@ -21,7 +21,7 @@
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z12to18</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/pale/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
@@ -154,73 +154,6 @@
 <MatrixWidth>2048</MatrixWidth>
 <MatrixHeight>2048</MatrixHeight>
 </TileMatrix>
-<TileMatrix>
-<ows:Identifier>12</ows:Identifier>
-<ScaleDenominator>136494.6933663862</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>4096</MatrixWidth>
-<MatrixHeight>4096</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>18</ows:Identifier>
-<ScaleDenominator>2132.729583849784</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>262144</MatrixWidth>
-<MatrixHeight>262144</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z12to18</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
 <ows:Identifier>12</ows:Identifier>
 <ScaleDenominator>136494.6933663862</ScaleDenominator>
