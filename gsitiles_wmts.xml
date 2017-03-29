@@ -2198,7 +2198,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/jikizu2015_chijiki_z/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>基準点・測地観測_磁気図2010.0年値_偏角図/偏角一覧図</ows:Title>
+<ows:Title>基準点・測地観測_磁気図2010.0年値_磁気図（偏角）／偏角一覧図</ows:Title>
 <ows:Identifier>jikizu_chijiki_d</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -2210,7 +2210,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/jikizu_chijikid/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>基準点・測地観測_磁気図2010.0年値_伏角図</ows:Title>
+<ows:Title>基準点・測地観測_磁気図2010.0年値_磁気図（伏角）</ows:Title>
 <ows:Identifier>jikizu_chijiki_i</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -2222,7 +2222,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/jikizu_chijikii/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>基準点・測地観測_磁気図2010.0年値_全磁力図</ows:Title>
+<ows:Title>基準点・測地観測_磁気図2010.0年値_磁気図（全磁力）</ows:Title>
 <ows:Identifier>jikizu_chijiki_f</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -2234,7 +2234,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/jikizu_chijikif/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>基準点・測地観測_磁気図2010.0年値_水平分力図</ows:Title>
+<ows:Title>基準点・測地観測_磁気図2010.0年値_磁気図（水平分力）</ows:Title>
 <ows:Identifier>jikizu_chijiki_h</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -2246,7 +2246,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/jikizu_chijikih/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>基準点・測地観測_磁気図2010.0年値_鉛直分力図</ows:Title>
+<ows:Title>基準点・測地観測_磁気図2010.0年値_磁気図（鉛直分力）</ows:Title>
 <ows:Identifier>jikizu_chijiki_z</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -14294,6 +14294,18 @@
 <ResourceURL format="image/jpg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成29年栃木県那須町の雪崩_雪崩発生付近の地図</ows:Title>
+<ows:Identifier>20170327nasu_chizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170327nasu_chizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成28年台風第10号_安家川（岩手県岩泉町）_安家地区正射画像（9/7撮影）</ows:Title>
 <ows:Identifier>20160830typhoon10_0907dol1</ows:Identifier>
 <Style isDefault="true">
@@ -18915,6 +18927,46 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z15to18</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>18</ows:Identifier>
+<ScaleDenominator>2132.729583849784</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>262144</MatrixWidth>
+<MatrixHeight>262144</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z2to14</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -19790,46 +19842,6 @@
 <MatrixWidth>16384</MatrixWidth>
 <MatrixHeight>16384</MatrixHeight>
 </TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>18</ows:Identifier>
-<ScaleDenominator>2132.729583849784</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>262144</MatrixWidth>
-<MatrixHeight>262144</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z15to18</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
 <ows:Identifier>15</ows:Identifier>
 <ScaleDenominator>17061.83667079827</ScaleDenominator>
