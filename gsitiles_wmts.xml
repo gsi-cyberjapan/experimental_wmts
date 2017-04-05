@@ -350,14 +350,14 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/swale/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>主題図_火山基本図</ows:Title>
+<ows:Title>主題図_火山基本図・火山基本図データ</ows:Title>
 <ows:Identifier>vbm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z2to17</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
