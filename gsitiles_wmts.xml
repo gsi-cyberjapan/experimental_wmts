@@ -2078,6 +2078,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_dem10a_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>主題図_更新情報_基盤地図情報基本項目_2017年更新情報_7月更新</ows:Title>
+<ows:Identifier>fgd_update_2017_07</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2017_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>主題図_更新情報_基盤地図情報基本項目_2017年更新情報_4月更新</ows:Title>
 <ows:Identifier>fgd_update_2017_04</ows:Identifier>
 <Style isDefault="true">
@@ -16898,6 +16910,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/active_fault_suihon/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>正射画像_空中写真（東峰地区）（7/30,31撮影）</ows:Title>
+<ows:Identifier>20170705typhoon3_0802dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170705typhoon3_0802dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>正射画像_統合版_空中写真（東峰地区）（7/13撮影）</ows:Title>
 <ows:Identifier>20170705typhoon3_0713dol2</ows:Identifier>
 <Style isDefault="true">
@@ -17052,6 +17076,54 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/jpg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/seamlessphoto/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>治水地形分類図_更新版(2007～2014年)</ows:Title>
+<ows:Identifier>lcmfc2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/lcmfc2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>治水地形分類図_初版(1976～1978年)</ows:Title>
+<ows:Identifier>lcmfc1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/lcmfc1/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>全国最新写真（シームレス）</ows:Title>
+<ows:Identifier>seamlessphoto</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/seamlessphoto/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>デジタル標高地形図&lt;br&gt;【雄物川周辺】</ows:Title>
+<ows:Identifier>20170722akita_digiele</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z3to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170722akita_digiele/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>治水地形分類図_更新版(2007～2014年)</ows:Title>
