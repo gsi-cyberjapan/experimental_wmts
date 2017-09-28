@@ -106,7 +106,7 @@ for ( var i=0; i<ljson.length; i++ ){
 var TileMatrixSet = ljson[i].minZoom + 'to' + ljson[i].maxNativeZoom;
 if(outTileMatrix.indexOf(TileMatrixSet) == -1){outTileMatrix.push(TileMatrixSet);}
 var tileext;
-if(ljson[i].url.match(/\{y\}\.png$/)){tileext = 'image/png';}else{tileext = 'image/jpg';}
+if(ljson[i].url.match(/\{y\}\.png$/)){tileext = 'image/png';}else{tileext = 'image/jpeg';}
 ljson[i].url = ljson[i].url.replace('{z}/{x}/{y}', '{TileMatrix}/{TileCol}/{TileRow}');
 outxml += '<Layer>' + "\n";
 outxml += '<ows:Title>' + ljson[i].title + '</ows:Title>' + "\n";
