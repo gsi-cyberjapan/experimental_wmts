@@ -16238,18 +16238,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/demgm_png/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>ベクトルタイル提供実験_┗住居表示住所の提供範囲</ows:Title>
-<ows:Identifier>experimental_jhj_index</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/experimental_jhj_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>雪崩発生付近の地図</ows:Title>
 <ows:Identifier>20170327nasu_chizu</ows:Identifier>
 <Style isDefault="true">
