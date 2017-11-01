@@ -266,7 +266,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/relief/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>主題図_都市圏活断層図_都市圏活断層図</ows:Title>
+<ows:Title>主題図_活断層図_活断層図（都市圏活断層図）</ows:Title>
 <ows:Identifier>afm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -2076,6 +2076,18 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_dem10a_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>主題図_更新情報_基盤地図情報基本項目_2017年更新情報_10月更新</ows:Title>
+<ows:Identifier>fgd_update_2017_10</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2017_10/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>主題図_更新情報_基盤地図情報基本項目_2017年更新情報_8月更新</ows:Title>
@@ -14808,6 +14820,54 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_航空機SAR（新燃岳）_2017/10/12観測（西から東) </ows:Title>
+<ows:Identifier>20171011kirishima_apsar171012we</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar171012we/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_航空機SAR（新燃岳）_2017/10/12観測（東から西) </ows:Title>
+<ows:Identifier>20171011kirishima_apsar171012ew</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar171012ew/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_航空機SAR（新燃岳）_2014/11/5観測（西から東）</ows:Title>
+<ows:Identifier>20171011kirishima_apsar141105we</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar141105we/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_航空機SAR（新燃岳）_2014/11/5観測（東から西）</ows:Title>
+<ows:Identifier>20171011kirishima_apsar141105ew</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar141105ew/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果_2016/03/02～2016/03/30_AR</ows:Title>
