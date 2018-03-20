@@ -16154,6 +16154,42 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar141105ew/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果_2018/03/15_AL_PWR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20180315_u14l_mag</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20180315_u14l_mag/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果_2018/03/14_DR_PWR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20180314_u10r_mag</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20180314_u10r_mag/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果_2018/03/14_AR_PWR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_p131_20180313_u09r_pwr</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_volcano_kirishimayama_p131_20180313_u09r_pwr/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果_2018/03/12_DL_PWR</ows:Title>
 <ows:Identifier>urgent_volcano_kirishimayama_20180312_u13l_pwr</ows:Identifier>
 <Style isDefault="true">
