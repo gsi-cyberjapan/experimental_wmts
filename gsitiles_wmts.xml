@@ -146,7 +146,7 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/gazo1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
-<ows:Title>空中写真・衛星画像_1961年～1964年</ows:Title>
+<ows:Title>空中写真・衛星画像_1961年～1969年</ows:Title>
 <ows:Identifier>ort_old10</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -56796,6 +56796,30 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20171011kirishima_apsar141105ew/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果(ALOS-2)_2018/03/28～2018/04/11_AR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20180327_20180410_u09r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20180327_20180410_u09r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果(ALOS-2)_2018/04/11_AR_PWR</ows:Title>
+<ows:Identifier>urgent_volcano_kirishimayama_20180410_u09r_pwr</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_volcano_kirishimayama_20180410_u09r_pwr/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_霧島山_SAR解析結果(ALOS-2)_2018/03/14～2018/03/28_AR</ows:Title>
