@@ -101,7 +101,7 @@ function layersearch(layerdata,parent){
    layersearch(result.layers,layerdata[i]);
   }
   if ( layerdata[i].type == "Layer"){
-   if ( layerdata[i].url.match(/\{y\}\.jpg$/) || layerdata[i].url.match(/\{y\}\.png$/)){
+   if ( (layerdata[i].id != "red") && (( layerdata[i].url.match(/\{y\}\.jpg$/) || layerdata[i].url.match(/\{y\}\.png$/))) ){
     if(!layerdata[i].maxNativeZoom){
      if(!layerdata[i].maxZoom){
       layerdata[i].maxNativeZoom = 18;
