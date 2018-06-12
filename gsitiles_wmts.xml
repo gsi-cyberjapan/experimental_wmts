@@ -1886,18 +1886,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/anaglyphmap_gray/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_赤色立体地図</ows:Title>
-<ows:Identifier>red</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to14</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/sekishoku/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>土地の特徴を示した地図_活断層図_活断層図（都市圏活断層図）</ows:Title>
 <ows:Identifier>afm</ows:Identifier>
 <Style isDefault="true">
