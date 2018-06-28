@@ -27,24 +27,14 @@
     </div>
 
 <script>
-var layerarray = ['http://maps.gsi.go.jp/layers_txt/layers1.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers2.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers3.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers4.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers5.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_skhb.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_invisible.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_experimental.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20170327nasu.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20161228ibaraki.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20161222itoigawa.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20161021tottori.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20160830typhoon10.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20160820typhoon11_9.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20160414kumamoto.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20170705typhoon3.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20170722akita.txt',
-                  'http://maps.gsi.go.jp/layers_txt/layers_20180124kusatsushirane.txt'];
+var layerarray = ['https://maps.gsi.go.jp/layers_txt/layers1.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers2.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers3.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers4.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers5.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers_skhb.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers_invisible.txt',
+                  'https://maps.gsi.go.jp/layers_txt/layers_experimental.txt'];
 
 var outxml = '<?xml version="1.0" encoding="UTF-8"?>' + "\n";
 outxml += '<Capabilities xmlns="http://www.opengis.net/wmts/1.0" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/wmts/1.0 http://schemas.opengis.net/wmts/1.0/wmtsGetCapabilities_response.xsd" version="1.0.0">' + "\n";;
@@ -92,7 +82,12 @@ function layersearch(layerdata,parent){
   if(layerdata[i].src){
    if (layerdata[i].src.indexOf("//") < 0)
    {
-   	continue;
+     if ((layerdata[i].src.indexOf("./") == 0) && (layerdata[i].src.match(/\?|#/) == null)){
+      layerdata[i].src= "https://maps.gsi.go.jp/layers_txt/" + layerdata[i].src.substring(2);
+     }
+     else{
+      continue;
+     }
    }
    var xhr = new XMLHttpRequest();
    xhr.open('GET', layerdata[i].src, false);
