@@ -3626,6 +3626,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2018年更新情報_7月更新</ows:Title>
+<ows:Identifier>fgd_update_2018_07</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2018_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2018年更新情報_4月更新</ows:Title>
 <ows:Identifier>fgd_update_2018_04</ows:Identifier>
 <Style isDefault="true">
@@ -60254,8 +60266,20 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_takahashigawa_0712do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_宇和島地区（宇和島市など）_宇和島地区（7/11撮影）</ows:Title>
-<ows:Identifier>201807H3007gouu_uwajima_0711do</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_福山北部地区（広島県福山市・岡山県井原市など）_福山北部地区（7/18撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_fukuyamahokubu_0718do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_fukuyamahokubu_0718do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_福山地区（広島県福山市）_福山地区（7/13,16撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_fukuyama_0713do</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -63792,6 +63816,42 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山基本図</ows:Title>
+<ows:Identifier>vbm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山土地条件図</ows:Title>
+<ows:Identifier>vlcd</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_赤色立体地図（樽前山周辺）</ows:Title>
+<ows:Identifier>tarumaered</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180717_sekisyokurittai_tarumae/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>他機関の情報_土地分類基本調査（土地履歴調査）－国土政策局_地形分類図</ows:Title>
