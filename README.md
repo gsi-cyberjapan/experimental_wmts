@@ -6,10 +6,10 @@
 #地理院タイルのWMTSメタデータ
 
 WMTSメタデータ：
-http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml
+https://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml
 
 WMTSメタデータ(軽量版)：
-http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts_light.xml
+https://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts_light.xml
 
 WMTSバージョン：
 OpenGIS Web Map Tile Service Implementation Standard (Version1.0.0)
@@ -20,10 +20,10 @@ http://www.opengeospatial.org/standards/wmts
 地理院タイル（ラスタタイル）のWMTSメタデータを作成します。
 
 WMTSメタデータ作成ツール：
-http://gsi-cyberjapan.github.io/experimental_wmts/
+https://gsi-cyberjapan.github.io/experimental_wmts/
 
 WMTSメタデータ作成ツール(軽量版)：
-http://gsi-cyberjapan.github.io/experimental_wmts/index_light.html
+https://gsi-cyberjapan.github.io/experimental_wmts/index_light.html
 
 ウェブ地図レイヤ定義 layers.txt 規約：
 https://github.com/gsi-cyberjapan/layers-dot-txt-spec
