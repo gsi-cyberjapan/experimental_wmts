@@ -96,7 +96,12 @@ function layersearch(layerdata,parent){
    layersearch(result.layers,layerdata[i]);
   }
   if ( layerdata[i].type == "Layer"){
-   if ( (layerdata[i].id != "red") && (( layerdata[i].url.match(/\{y\}\.jpg$/) || layerdata[i].url.match(/\{y\}\.png$/))) ){
+   if ( (layerdata[i].id != "red") && 
+        (layerdata[i].id != "20180309_sekisyokurittai_kirishima") && 
+        (layerdata[i].id != "tarumaered") && 
+        (layerdata[i].id != "20180130_kusatsushiranesan_sekishokurittai") && 
+        (layerdata[i].id != "kuchinoerabured") && 
+        (( layerdata[i].url.match(/\{y\}\.jpg$/) || layerdata[i].url.match(/\{y\}\.png$/))) ){
     if(!layerdata[i].maxNativeZoom){
      if(!layerdata[i].maxZoom){
       layerdata[i].maxNativeZoom = 18;
