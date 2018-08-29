@@ -61454,18 +61454,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180127kusatsushirane_apsar180127nesw/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_赤色立体地図（本白根山周辺）</ows:Title>
-<ows:Identifier>20180130_kusatsushiranesan_sekishokurittai</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z3to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180130_kusatsushiranesan_sekishokurittai/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_正射画像_2018/2/16･27（無人航空機（UAV)撮影）</ows:Title>
 <ows:Identifier>20180124kusatsushirane_0216uav</ows:Identifier>
 <Style isDefault="true">
@@ -62184,18 +62172,6 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180309_kazantaisaku_kirishima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_霧島山_赤色立体地図（新燃岳周辺）</ows:Title>
-<ows:Identifier>20180309_sekisyokurittai_kirishima</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180309_sekisyokurittai_kirishima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_霧島山_航空機SAR（新燃岳）_2018/3/27観測（西から東) </ows:Title>
@@ -63900,18 +63876,6 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_赤色立体地図（樽前山周辺）</ows:Title>
-<ows:Identifier>tarumaered</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180717_sekisyokurittai_tarumae/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>他機関の情報_土地分類基本調査（土地履歴調査）－国土政策局_地形分類図</ows:Title>
