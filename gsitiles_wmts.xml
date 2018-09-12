@@ -58994,6 +58994,126 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真川地区（北海道勇払郡厚真町・安平町・むかわ町）_厚真川地区（9/6撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_0906do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真地区（北海道勇払郡厚真町・安平町・むかわ町）_厚真地区（9/6,8撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumachiku_0906do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumachiku_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_被災前最新写真</ows:Title>
+<ows:Identifier>seamlessphoto1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/jpeg</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/seamlessphoto/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_デジタル標高地形図_厚真町周辺</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_digital</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z6to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_digital/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_赤色立体地図_厚真町周辺</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_sekishoku</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z6to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_sekishoku/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_SAR解析結果(ALOS-2)_p122AR_p018DR_201808_201809_qu&lt;br&gt;準上下成分</ows:Title>
+<ows:Identifier>urgent_earthquake_20180906iburi_p116ar_20180825_20180908_p018dr_20180823_20180906_qu準上下成分</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_earthquake_20180906iburi_p116ar_20180825_20180908_p018dr_20180823_20180906_qu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_SAR解析結果(ALOS-2)_p122AR_p018DR_201808_201809_qu&lt;br&gt;準東西成分</ows:Title>
+<ows:Identifier>urgent_earthquake_20180906iburi_p116ar_20180825_20180908_p018dr_20180823_20180906_qe</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_earthquake_20180906iburi_p116ar_20180825_20180908_p018dr_20180823_20180906_qe/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_SAR解析結果(ALOS-2)_2018/08/25～2018/09/08_AR</ows:Title>
+<ows:Identifier>urgent_earthquake_20180906iburi_20180825_20180908_h04r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to14</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_earthquake_20180906iburi_20180825_20180908_h04r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_SAR解析結果(ALOS-2)_2018/08/23～2018/09/06_AL</ows:Title>
+<ows:Identifier>urgent_earthquake_20180906iburi_20180823_20180906_u09l</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_earthquake_20180906iburi_20180823_20180906_u09l/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_SAR解析結果(ALOS-2)_2018/08/23～2018/09/06_DR</ows:Title>
+<ows:Identifier>urgent_earthquake_20180906iburi_20180823_20180906_u07r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/urgent_earthquake_20180906iburi_20180823_20180906_u07r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_地震_大阪府北部を震源とする地震_活断層図_活断層図</ows:Title>
 <ows:Identifier>_afm20160414</ows:Identifier>
 <Style isDefault="true">
@@ -67013,6 +67133,109 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z6to16</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>6</ows:Identifier>
+<ScaleDenominator>8735660.375448715</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>64</MatrixWidth>
+<MatrixHeight>64</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>7</ows:Identifier>
+<ScaleDenominator>4367830.187724357</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>128</MatrixWidth>
+<MatrixHeight>128</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z9to14</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -67202,109 +67425,6 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>2048</MatrixWidth>
 <MatrixHeight>2048</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z6to16</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>6</ows:Identifier>
-<ScaleDenominator>8735660.375448715</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>64</MatrixWidth>
-<MatrixHeight>64</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>7</ows:Identifier>
-<ScaleDenominator>4367830.187724357</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>128</MatrixWidth>
-<MatrixHeight>128</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>8</ows:Identifier>
-<ScaleDenominator>2183915.093862179</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>256</MatrixWidth>
-<MatrixHeight>256</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>9</ows:Identifier>
-<ScaleDenominator>1091957.546931089</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>512</MatrixWidth>
-<MatrixHeight>512</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>10</ows:Identifier>
-<ScaleDenominator>545978.7734655447</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>1024</MatrixWidth>
-<MatrixHeight>1024</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>11</ows:Identifier>
-<ScaleDenominator>272989.3867327723</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>2048</MatrixWidth>
-<MatrixHeight>2048</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>12</ows:Identifier>
-<ScaleDenominator>136494.6933663862</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>4096</MatrixWidth>
-<MatrixHeight>4096</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
