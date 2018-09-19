@@ -58994,7 +58994,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真川地区（北海道勇払郡厚真町・安平町・むかわ町）_厚真川地区（9/6撮影）</ows:Title>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真川地区（北海道夕張市・勇払郡厚真町・安平町・むかわ町など）_厚真川地区（9/6撮影）</ows:Title>
 <ows:Identifier>20180906hokkaido_atsuma_0906do</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -59004,6 +59004,18 @@
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真川地区（北海道夕張市・勇払郡厚真町・安平町・むかわ町など）_厚真川地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真地区（北海道勇払郡厚真町・安平町・むかわ町）_厚真地区（9/6,8撮影）</ows:Title>
@@ -59018,6 +59030,66 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumachiku_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_安平・厚真西部地区（北海道千歳市・苫小牧市など）_安平・厚真西部地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumaseibu_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumaseibu_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真東部地区（北海道勇払郡厚真町・むかわ町、沙流郡平取町）_厚真東部地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumtoubu_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumatoubu_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_札幌市清田地区（北海道札幌市清田区・厚別区、北広島市）_札幌市清田地区（9/12撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_kiyota_0912do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_kiyota_0912do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_札幌市清田地区（北海道札幌市清田区・厚別区、北広島市）_札幌市清田地区（9/13撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_kiyota_0913do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_kiyota_0913do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_安平地区（北海道勇払郡安平町・厚真町など）_安平地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_abira_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_abira_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_被災前最新写真</ows:Title>
 <ows:Identifier>seamlessphoto1</ows:Identifier>
 <Style isDefault="true">
@@ -59028,6 +59100,18 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/seamlessphoto/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_斜面崩壊・堆積分布図</ows:Title>
+<ows:Identifier>20180906hokkaido_iburi_hokaichi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z6to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_iburi_hokaichi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_デジタル標高地形図_厚真町周辺</ows:Title>
