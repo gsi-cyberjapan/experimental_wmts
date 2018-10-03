@@ -61730,6 +61730,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/10/17～2018/09/18_AR</ows:Title>
+<ows:Identifier>urgent_volcano_azumayama_20171017_20180918_u06r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_urgent_volcano_azumayama_20171017_20180918_u06r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/09/07～2018/06/28_DR</ows:Title>
+<ows:Identifier>regular_p018_20170907_20180628_u08r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_regular_p018_20170907_20180628_u08r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2014/09/09-2015/06/02_AR</ows:Title>
 <ows:Identifier>20140909_20150602_u06r_sar_azumayama</ows:Identifier>
 <Style isDefault="true">
@@ -61742,16 +61766,40 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図「吾妻山」</ows:Title>
-<ows:Identifier>_vbm_2018-4</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（基図）</ows:Title>
+<ows:Identifier>vbmd_bm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z8to17</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
+<ows:Identifier>vbmd_colorrel</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
+<ows:Identifier>vbmd_pm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_浅間山_SAR解析結果(ALOS-2)_2015/07/10-2015/07/24_AR</ows:Title>
