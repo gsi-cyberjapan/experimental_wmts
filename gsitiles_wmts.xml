@@ -64958,6 +64958,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="http://nrb-www.mlit.go.jp/kokjo/inspect/tile/landclassification/land_history/DisasterHist_landSubsidence/landSubsidence/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>他機関の情報_森林（国有林）の空中写真（林野庁）</ows:Title>
+<ows:Identifier>rinya</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/rinya/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>他機関の情報_人口集中地区 平成27年（総務省統計局）</ows:Title>
 <ows:Identifier>did2015</ows:Identifier>
 <Style isDefault="true">
