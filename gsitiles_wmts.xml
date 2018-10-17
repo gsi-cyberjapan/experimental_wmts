@@ -58994,6 +58994,102 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/sar_eg_atmosphere/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_厚真川地区（9/6撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_0906do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_厚真川地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsuma_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsuma_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_札幌市清田地区（9/12撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_kiyota_0912do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_kiyota_0912do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_札幌市清田地区（9/13撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_kiyota_0913do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_kiyota_0913do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_厚真東部地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumtoubu_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumatoubu_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_安平・厚真西部地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumaseibu_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumaseibu_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_厚真地区（9/6,8撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_atsumachiku_0906do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_atsumachiku_0906do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_統合版_安平地区（9/11撮影）</ows:Title>
+<ows:Identifier>20180906hokkaido_abira_0911do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180906hokkaido_abira_0911do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_地震_平成30年北海道胆振東部地震_正射画像_厚真川地区（北海道夕張市・勇払郡厚真町・安平町・むかわ町など）_厚真川地区（9/6撮影）</ows:Title>
 <ows:Identifier>20180906hokkaido_atsuma_0906do</ows:Identifier>
 <Style isDefault="true">
@@ -60434,6 +60530,222 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_岩国地区（7/19撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_iwakuni_0719do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_iwakuni_0719do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_高梁川地区（7/9撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_takahashigawa_0709do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_takahashigawa_0709do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_高梁川地区（7/11撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_takahashigawa_0711do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_takahashigawa_0711do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_高梁川地区（7/12撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_takahashigawa_0712do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_takahashigawa_0712do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_福山北部地区（7/18撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_fukuyamahokubu_0718do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_fukuyamahokubu_0718do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_福山地区（7/13,16撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_fukuyama_0713do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_fukuyama_0713do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_三原北部地区（7/15撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_miharahokubu_0715do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_miharahokubu_0715do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_三原尾道地区（7/13撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_miharaonomichi_0713do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_miharaonomichi_0713do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_三原尾道地区（7/15,16撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_miharaonomichi_0715do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_miharaonomichi_0715do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_竹原三原地区（7/10,11,12撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_takeharamihara_0712do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_takeharamihara_0712do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_東広島地区（7/10,11,14撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_higashihiroshima_0710do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_higashihiroshima_0710do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_呉東部地区（7/13撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_kuretoubu_0713do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_kuretoubu_0713do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_呉東部地区（7/15撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_kuretoubu_0715do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_kuretoubu_0715do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_広島坂町地区（7/9,11撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_sakachou_0711do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_sakachou_0711do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_江田島地区（7/16撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_etajima_0716do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_etajima_0716do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_大洲地区（7/11撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_ozu_0711do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_ozu_0711do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_肱川地区（7/18撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_hijikawa_0718do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_hijikawa_0718do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_宇和島地区（7/11撮影）</ows:Title>
+<ows:Identifier>201807H3007gouu_uwajima_0711do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/201807H3007gouu_uwajima_0711do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_高梁川地区（岡山県倉敷市・総社市など）_高梁川地区（7/9撮影）</ows:Title>
 <ows:Identifier>201807H3007gouu_takahashigawa_0709do</ows:Identifier>
 <Style isDefault="true">
@@ -61766,6 +62078,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山災害対策用図（吾妻山）</ows:Title>
+<ows:Identifier>2018_kazantaisaku_azumayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2018_kazantaisaku_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（基図）</ows:Title>
 <ows:Identifier>vbmd_bm</ows:Identifier>
 <Style isDefault="true">
@@ -61800,6 +62124,18 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_赤色立体地図（吾妻山）</ows:Title>
+<ows:Identifier>2018_sekisyokurittai_azumayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2018_sekisyokurittai_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_浅間山_SAR解析結果(ALOS-2)_2015/07/10-2015/07/24_AR</ows:Title>
