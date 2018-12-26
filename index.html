@@ -97,9 +97,13 @@ function layersearch(layerdata,parent){
   }
   if ( layerdata[i].type == "Layer"){
    if ( (layerdata[i].id != "red") && 
+        (layerdata[i].id != "oosimared" ) &&
+        (layerdata[i].id != "miyakejimared" ) &&
         (layerdata[i].id != "20180309_sekisyokurittai_kirishima") && 
+        (layerdata[i].id != "2018_sekisyokurittai_azumayama") && 
         (layerdata[i].id != "tarumaered") && 
         (layerdata[i].id != "20180130_kusatsushiranesan_sekishokurittai") && 
+        (layerdata[i].id != "20180906hokkaido_atsuma_sekishoku") && 
         (layerdata[i].id != "kuchinoerabured") && 
         (( layerdata[i].url.match(/\{y\}\.jpg$/) || layerdata[i].url.match(/\{y\}\.png$/))) ){
     if(!layerdata[i].maxNativeZoom){
