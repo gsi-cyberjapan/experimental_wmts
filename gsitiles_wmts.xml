@@ -71558,6 +71558,30 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/dem_png/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>標高タイル（基盤地図情報数値標高モデル）PNG（DEM5A）</ows:Title>
+<ows:Identifier>dem5a_png</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://cyberjapandata.gsi.go.jp/xyz/dem5a_png/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>標高タイル（基盤地図情報数値標高モデル）PNG（DEM5B）</ows:Title>
+<ows:Identifier>dem5b_png</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://cyberjapandata.gsi.go.jp/xyz/dem5b_png/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>標高タイル（地球地図全球版標高第2版）PNG</ows:Title>
 <ows:Identifier>demgm_png</ows:Identifier>
 <Style isDefault="true">
@@ -75280,6 +75304,19 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>65536</MatrixWidth>
 <MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z15to15</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 </Contents>
