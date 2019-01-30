@@ -68138,30 +68138,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180127kusatsushirane_apsar180127nesw/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_平成30年1月23日噴火後のオルソ立体地図（本白根山周辺および白根山北西部）</ows:Title>
-<ows:Identifier>20190121_olsorittai_kusatsushiranesan</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190121_olsorittai_kusatsushiranesan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_平成30年1月23日噴火後の赤色立体地図（本白根山周辺および白根山北西部）</ows:Title>
-<ows:Identifier>20190121_sekisyokurittai_kusatsushiranesan</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190121_sekisyokurittai_kusatsushiranesan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_正射画像_2018/2/16･27（無人航空機（UAV)撮影）</ows:Title>
 <ows:Identifier>20180124kusatsushirane_0216uav</ows:Identifier>
 <Style isDefault="true">
