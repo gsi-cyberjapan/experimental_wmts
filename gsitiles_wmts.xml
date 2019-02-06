@@ -3710,6 +3710,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_1月更新</ows:Title>
+<ows:Identifier>fgd_update_2019_01</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2019_01/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2018年更新情報_10月更新</ows:Title>
 <ows:Identifier>fgd_update_2018_10</ows:Identifier>
 <Style isDefault="true">
