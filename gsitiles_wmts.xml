@@ -3614,90 +3614,6 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/gmld_ptc2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:2,500　東オングル島地形図_1:2,500　東オングル島地形図</ows:Title>
-<ows:Identifier>_southpole_2500</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_2500/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:2,500　西オングル島北東地形図_1:2,500　西オングル島北東地形図</ows:Title>
-<ows:Identifier>_westongul_2500</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/westongul_2500/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:2,500　東オングル島写真図_1:2,500　東オングル島写真図</ows:Title>
-<ows:Identifier>_southpole_2500_ort</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_2500_ort/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:2,500　西オングル島北東写真図_1:2,500　西オングル島北東写真図</ows:Title>
-<ows:Identifier>_westongul_2500_ort</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/westongul_2500_ort/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:25,000　南極地形図_1:25,000　南極地形図</ows:Title>
-<ows:Identifier>_southpole_25000</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_25000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:50,000　南極地形図_1:50,000　南極地形図</ows:Title>
-<ows:Identifier>_southpole_50000</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_50000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>土地の特徴を示した地図_南極の地理空間情報_1:250,000　南極衛星画像図_1:250,000　南極衛星画像図</ows:Title>
-<ows:Identifier>_southpole_satellite_250000</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_satellite_250000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
 <ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_縮尺2500分1相当以上の概ねの範囲</ows:Title>
 <ows:Identifier>fgd_2500_area</ows:Identifier>
 <Style isDefault="true">
@@ -71628,6 +71544,90 @@
 <TileMatrixSet>z5to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/experimental_jhj_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:2,500　東オングル島地形図_1:2,500　東オングル島地形図</ows:Title>
+<ows:Identifier>_southpole_2500</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_2500/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:2,500　西オングル島北東地形図_1:2,500　西オングル島北東地形図</ows:Title>
+<ows:Identifier>_westongul_2500</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/westongul_2500/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:2,500　東オングル島写真図_1:2,500　東オングル島写真図</ows:Title>
+<ows:Identifier>_southpole_2500_ort</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_2500_ort/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:2,500　西オングル島北東写真図_1:2,500　西オングル島北東写真図</ows:Title>
+<ows:Identifier>_westongul_2500_ort</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/westongul_2500_ort/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:25,000　南極地形図_1:25,000　南極地形図</ows:Title>
+<ows:Identifier>_southpole_25000</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_25000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:50,000　南極地形図_1:50,000　南極地形図</ows:Title>
+<ows:Identifier>_southpole_50000</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_50000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>南極の地理空間情報_1:250,000　南極衛星画像図_1:250,000　南極衛星画像図</ows:Title>
+<ows:Identifier>_southpole_satellite_250000</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/southpole_satellite_250000/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <TileMatrixSet>
 <ows:Identifier>z2to18</ows:Identifier>
