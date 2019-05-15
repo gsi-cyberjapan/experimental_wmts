@@ -2006,7 +2006,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/ccm2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>土地の特徴を示した地図_治水地形分類図_更新版(2007～2016年)</ows:Title>
+<ows:Title>土地の特徴を示した地図_治水地形分類図_更新版(2007～2018年)</ows:Title>
 <ows:Identifier>lcmfc2</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -3624,6 +3624,18 @@
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_4月更新</ows:Title>
+<ows:Identifier>fgd_update_2019_04</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z4to12</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2019_04/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_1月更新</ows:Title>
