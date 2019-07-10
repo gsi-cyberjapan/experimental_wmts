@@ -68606,6 +68606,18 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年６月下旬からの大雨_正射画像_鹿児島中央地区（鹿児島県鹿児島市、日置市、南九州市）_鹿児島中央地区（7/4撮影）</ows:Title>
+<ows:Identifier>20190704_kagoshima_chuou_0704do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190704_kagoshima_chuou_0704do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_平成30年7月豪雨_正射画像_統合版_岩国地区（7/19撮影）</ows:Title>
 <ows:Identifier>201807H3007gouu_iwakuni_0719do</ows:Identifier>
 <Style isDefault="true">
