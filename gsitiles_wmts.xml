@@ -326,6 +326,18 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no887/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_北海道_北海道_2019年6月</ows:Title>
+<ows:Identifier>d1-no943</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no943/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_東北_栗駒山北部_2010年2月</ows:Title>
 <ows:Identifier>d1-no546</ows:Identifier>
 <Style isDefault="true">
@@ -540,6 +552,78 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no888/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_青森県_2019年6月</ows:Title>
+<ows:Identifier>d1-no944</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no944/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_岩手県_2019年6月</ows:Title>
+<ows:Identifier>d1-no945</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no945/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_宮城県_2019年6月</ows:Title>
+<ows:Identifier>d1-no946</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no946/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_秋田県_2019年6月</ows:Title>
+<ows:Identifier>d1-no947</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no947/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_山形県_2019年6月</ows:Title>
+<ows:Identifier>d1-no948</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no948/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_東北_福島県_2019年6月</ows:Title>
+<ows:Identifier>d1-no949</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no949/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_関東_東京都区部_2006年3月</ows:Title>
@@ -902,6 +986,114 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no896/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_茨城県_2019年6月</ows:Title>
+<ows:Identifier>d1-no950</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no950/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_栃木県_2019年6月</ows:Title>
+<ows:Identifier>d1-no951</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no951/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_群馬県_2019年6月</ows:Title>
+<ows:Identifier>d1-no952</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no952/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_埼玉県_2019年6月</ows:Title>
+<ows:Identifier>d1-no953</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no953/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_千葉県_2019年6月</ows:Title>
+<ows:Identifier>d1-no954</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no954/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_東京都_2019年6月</ows:Title>
+<ows:Identifier>d1-no955</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no955/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_神奈川県_2019年6月</ows:Title>
+<ows:Identifier>d1-no956</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no956/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_山梨県_2019年6月</ows:Title>
+<ows:Identifier>d1-no961</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no961/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_関東_長野県_2019年6月</ows:Title>
+<ows:Identifier>d1-no962</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no962/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_北陸_柏崎_2008年8月</ows:Title>
 <ows:Identifier>d1-no527</ows:Identifier>
 <Style isDefault="true">
@@ -1032,6 +1224,54 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no898/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_北陸_新潟県_2019年6月</ows:Title>
+<ows:Identifier>d1-no957</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no957/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_北陸_富山県_2019年6月</ows:Title>
+<ows:Identifier>d1-no958</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no958/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_北陸_石川県_2019年6月</ows:Title>
+<ows:Identifier>d1-no959</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no959/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_北陸_福井県_2019年6月</ows:Title>
+<ows:Identifier>d1-no960</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no960/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_中部_名古屋_2006年9月</ows:Title>
@@ -1176,6 +1416,54 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no878/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中部_岐阜県_2019年6月</ows:Title>
+<ows:Identifier>d1-no963</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no963/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中部_静岡県_2019年6月</ows:Title>
+<ows:Identifier>d1-no964</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no964/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中部_愛知県_2019年6月</ows:Title>
+<ows:Identifier>d1-no965</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no965/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中部_三重県_2019年6月</ows:Title>
+<ows:Identifier>d1-no966</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no966/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_近畿_大阪_2006年8月</ows:Title>
@@ -1370,6 +1658,78 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no905/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_滋賀県_2019年6月</ows:Title>
+<ows:Identifier>d1-no967</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no967/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_京都府_2019年6月</ows:Title>
+<ows:Identifier>d1-no968</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no968/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_大阪府_2019年6月</ows:Title>
+<ows:Identifier>d1-no969</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no969/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_兵庫県_2019年6月</ows:Title>
+<ows:Identifier>d1-no970</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no970/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_奈良県_2019年6月</ows:Title>
+<ows:Identifier>d1-no971</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no971/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_近畿_和歌山県_2019年6月</ows:Title>
+<ows:Identifier>d1-no972</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no972/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_中国_鳥取市_2013年1月</ows:Title>
 <ows:Identifier>d1-no806</ows:Identifier>
 <Style isDefault="true">
@@ -1452,6 +1812,66 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no908/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中国_鳥取県_2019年6月</ows:Title>
+<ows:Identifier>d1-no973</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no973/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中国_島根県_2019年6月</ows:Title>
+<ows:Identifier>d1-no974</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no974/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中国_岡山県_2019年6月</ows:Title>
+<ows:Identifier>d1-no975</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no975/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中国_広島県_2019年6月</ows:Title>
+<ows:Identifier>d1-no976</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no976/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_中国_山口県_2019年6月</ows:Title>
+<ows:Identifier>d1-no977</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no977/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>起伏を示した地図_デジタル標高地形図_四国_高知_2008年1月</ows:Title>
@@ -1550,7 +1970,55 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no882/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_福岡_2006年11月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_四国_徳島県_2019年6月</ows:Title>
+<ows:Identifier>d1-no978</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no978/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_四国_香川県_2019年6月</ows:Title>
+<ows:Identifier>d1-no979</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no979/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_四国_愛媛県_2019年6月</ows:Title>
+<ows:Identifier>d1-no980</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no980/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_四国_高知県_2019年6月</ows:Title>
+<ows:Identifier>d1-no981</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no981/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_福岡_2006年11月</ows:Title>
 <ows:Identifier>d1-no463</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1562,7 +2030,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no463/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_北九州西部_2012年1月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_北九州西部_2012年1月</ows:Title>
 <ows:Identifier>d1-no596</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1574,7 +2042,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no596/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_北九州東部_2012年1月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_北九州東部_2012年1月</ows:Title>
 <ows:Identifier>d1-no597</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1586,7 +2054,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no597/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_霧島山_2011年2月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_霧島山_2011年2月</ows:Title>
 <ows:Identifier>d1-no773</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1598,7 +2066,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no773/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_霧島山とその周辺2_2011年2月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_霧島山とその周辺2_2011年2月</ows:Title>
 <ows:Identifier>d1-no774</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1610,7 +2078,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no774/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_霧島山とその周辺3_2012年1月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_霧島山とその周辺3_2012年1月</ows:Title>
 <ows:Identifier>d1-no775</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1622,7 +2090,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no775/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_矢部川流域_2012年7月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_矢部川流域_2012年7月</ows:Title>
 <ows:Identifier>d1-no790</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1634,7 +2102,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no790/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_山国川流域_2012年7月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_山国川流域_2012年7月</ows:Title>
 <ows:Identifier>d1-no791</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1646,7 +2114,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no791/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_宮崎_2012年8月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_宮崎_2012年8月</ows:Title>
 <ows:Identifier>d1-no796</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1658,7 +2126,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no796/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_宮崎（DSM）_2012年9月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_宮崎（DSM）_2012年9月</ows:Title>
 <ows:Identifier>d1-no799</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1670,7 +2138,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no799/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_大分_2012年9月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_大分_2012年9月</ows:Title>
 <ows:Identifier>d1-no800</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1682,7 +2150,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no800/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_大分（DSM）_2012年9月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_大分（DSM）_2012年9月</ows:Title>
 <ows:Identifier>d1-no801</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1694,7 +2162,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no801/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_薩摩川内市_2012年9月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_薩摩川内市_2012年9月</ows:Title>
 <ows:Identifier>d1-no802</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1706,7 +2174,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no802/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_薩摩川内市（DSM）_2012年9月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_薩摩川内市（DSM）_2012年9月</ows:Title>
 <ows:Identifier>d1-no803</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1718,7 +2186,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no803/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_福岡_2015年7月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_福岡_2015年7月</ows:Title>
 <ows:Identifier>d1-no835</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1730,7 +2198,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no835/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_長崎市中央部_2016年1月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_長崎市中央部_2016年1月</ows:Title>
 <ows:Identifier>d1-no848</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1742,7 +2210,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no848/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_日南市_2016年5月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_日南市_2016年5月</ows:Title>
 <ows:Identifier>d1-no850</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1754,7 +2222,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no850/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_都城市_2016年6月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_都城市_2016年6月</ows:Title>
 <ows:Identifier>d1-no851</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1766,7 +2234,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no851/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_九州周辺_2018年2月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_九州周辺_2018年2月</ows:Title>
 <ows:Identifier>d1-no883</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1778,7 +2246,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no883/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_遠賀川水系彦山川_2018年5月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_遠賀川水系彦山川_2018年5月</ows:Title>
 <ows:Identifier>d1-no909</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1790,7 +2258,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no909/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_宮崎市周辺_2018年5月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_宮崎市周辺_2018年5月</ows:Title>
 <ows:Identifier>d1-no910</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1802,7 +2270,7 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no910/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>起伏を示した地図_デジタル標高地形図_九州_北川周辺_2018年5月</ows:Title>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_北川周辺_2018年5月</ows:Title>
 <ows:Identifier>d1-no911</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
@@ -1812,6 +2280,114 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no911/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_福岡県_2019年6月</ows:Title>
+<ows:Identifier>d1-no982</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no982/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_佐賀県_2019年6月</ows:Title>
+<ows:Identifier>d1-no983</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no983/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_長崎県_2019年6月</ows:Title>
+<ows:Identifier>d1-no984</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no984/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_熊本県_2019年6月</ows:Title>
+<ows:Identifier>d1-no985</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no985/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_大分県_2019年6月</ows:Title>
+<ows:Identifier>d1-no986</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no986/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_宮崎県_2019年6月</ows:Title>
+<ows:Identifier>d1-no987</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no987/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_鹿児島県_2019年6月</ows:Title>
+<ows:Identifier>d1-no988</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no988/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図_九州・沖縄_沖縄県_2019年6月</ows:Title>
+<ows:Identifier>d1-no989</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/d1-no989/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>起伏を示した地図_デジタル標高地形図（全球版）</ows:Title>
+<ows:Identifier>earthdegital</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to8</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/earthdegital/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>起伏を示した地図_陰影起伏図</ows:Title>
@@ -3626,8 +4202,8 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_2500_area/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_6月更新</ows:Title>
-<ows:Identifier>fgd_update_2019_06</ows:Identifier>
+<ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_7月更新</ows:Title>
+<ows:Identifier>fgd_update_2019_07</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -3635,7 +4211,7 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z4to12</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2019_06/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/fgd_update_2019_07/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地図の更新情報や提供地域等_基盤地図情報基本項目の更新情報_2019年更新情報_4月更新</ows:Title>
@@ -72638,6 +73214,150 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20130717dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_SAR解析結果(ALOS-2)_2014/08/30-2015/08/15_DL</ows:Title>
+<ows:Identifier>20140830_20150815_u08l_sar_tokachidake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140830_20150815_u08l_sar_tokachidake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_火山基本図「十勝岳」</ows:Title>
+<ows:Identifier>_vbm_2018-1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_火山土地条件図「十勝岳」</ows:Title>
+<ows:Identifier>_vlcd_2018-1</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山基本図</ows:Title>
+<ows:Identifier>vbm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山土地条件図</ows:Title>
+<ows:Identifier>vlcd</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/10/17～2018/09/18_AR</ows:Title>
+<ows:Identifier>urgent_volcano_azumayama_20171017_20180918_u06r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_urgent_volcano_azumayama_20171017_20180918_u06r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/09/07～2018/06/28_DR</ows:Title>
+<ows:Identifier>regular_p018_20170907_20180628_u08r</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_regular_p018_20170907_20180628_u08r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2014/09/09-2015/06/02_AR</ows:Title>
+<ows:Identifier>20140909_20150602_u06r_sar_azumayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山災害対策用図（吾妻山）</ows:Title>
+<ows:Identifier>2018_kazantaisaku_azumayama</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2018_kazantaisaku_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（基図）</ows:Title>
+<ows:Identifier>vbmd_bm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
+<ows:Identifier>vbmd_colorrel</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
+<ows:Identifier>vbmd_pm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山災害対策用図</ows:Title>
 <ows:Identifier>2018_kazantaisaku_kusatsushirane</ows:Identifier>
 <Style isDefault="true">
@@ -72746,16 +73466,40 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180124kusatsushirane_0216uav/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山基本図「草津白根山」</ows:Title>
-<ows:Identifier>_vbm_2018-3</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山基本図データ_火山基本図データ（基図）</ows:Title>
+<ows:Identifier>vbmd_bm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z8to17</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
+<ows:Identifier>vbmd_colorrel</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
+<ows:Identifier>vbmd_pm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_草津白根山_火山土地条件図「草津白根山」</ows:Title>
@@ -72768,126 +73512,6 @@
 <TileMatrixSet>z2to16</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_SAR解析結果(ALOS-2)_2014/08/30-2015/08/15_DL</ows:Title>
-<ows:Identifier>20140830_20150815_u08l_sar_tokachidake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to15</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140830_20150815_u08l_sar_tokachidake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_火山基本図「十勝岳」</ows:Title>
-<ows:Identifier>_vbm_2018-1</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z8to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_十勝岳_火山土地条件図「十勝岳」</ows:Title>
-<ows:Identifier>_vlcd_2018-1</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/10/17～2018/09/18_AR</ows:Title>
-<ows:Identifier>urgent_volcano_azumayama_20171017_20180918_u06r</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to15</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_urgent_volcano_azumayama_20171017_20180918_u06r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2017/09/07～2018/06/28_DR</ows:Title>
-<ows:Identifier>regular_p018_20170907_20180628_u08r</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to15</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="http://insarmap.gsi.go.jp/xyz/clip_volcano_azumayama_regular_p018_20170907_20180628_u08r/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_SAR解析結果(ALOS-2)_2014/09/09-2015/06/02_AR</ows:Title>
-<ows:Identifier>20140909_20150602_u06r_sar_azumayama</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to15</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140909_20150602_u06r_sar_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山災害対策用図（吾妻山）</ows:Title>
-<ows:Identifier>2018_kazantaisaku_azumayama</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2018_kazantaisaku_azumayama/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（基図）</ows:Title>
-<ows:Identifier>vbmd_bm</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
-<ows:Identifier>vbmd_colorrel</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_吾妻山_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
-<ows:Identifier>vbmd_pm</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_浅間山_SAR解析結果(ALOS-2)_2015/07/10-2015/07/24_AR</ows:Title>
@@ -72984,6 +73608,138 @@
 <TileMatrixSet>z8to17</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_SAR解析結果(ALOS-2)_2014/08/22～2014/10/03_AR</ows:Title>
+<ows:Identifier>20140822_1003d_sar_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_SAR解析結果(ALOS-2)_2014/08/18～2014/09/29_AR</ows:Title>
+<ows:Identifier>20140818-0929d_sar_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140818-0929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_正射画像_正射画像（2014/9/29）</ows:Title>
+<ows:Identifier>20140929dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_正射画像_正射画像（2014/9/28）</ows:Title>
+<ows:Identifier>20140928dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140928dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_航空機SAR画像（2014/9/30）</ows:Title>
+<ows:Identifier>20140930dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140930dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_航空機SAR画像（2014/9/29）</ows:Title>
+<ows:Identifier>20140929dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_衛星SAR強度画像（2014/9/29）</ows:Title>
+<ows:Identifier>20140929d_mag_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_衛星SAR強度画像（2014/8/18）</ows:Title>
+<ows:Identifier>20140818d_mag_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z5to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140818d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山基本図「御嶽山」</ows:Title>
+<ows:Identifier>_vbm_2014_09</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山基本図「御嶽山」（透過）</ows:Title>
+<ows:Identifier>20140927d_vlcd_t_ontake</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140927d_vlcd_t_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山土地条件図「御嶽山」</ows:Title>
+<ows:Identifier>_vlcd_2014_09</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_箱根山_SAR解析結果(ALOS-2)_2015/07/05～2015/11/08_AR</ows:Title>
@@ -73310,32 +74066,8 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/kazantaisaku_miyakejima/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_SAR解析結果(ALOS-2)_2014/08/22～2014/10/03_AR</ows:Title>
-<ows:Identifier>20140822_1003d_sar_ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140822_1003d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_SAR解析結果(ALOS-2)_2014/08/18～2014/09/29_AR</ows:Title>
-<ows:Identifier>20140818-0929d_sar_ontake</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://insarmap.gsi.go.jp/xyz/20140818-0929d_sar_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_正射画像_正射画像（2014/9/29）</ows:Title>
-<ows:Identifier>20140929dol</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2018/1/17</ows:Title>
+<ows:Identifier>20180117dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -73343,11 +74075,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180117dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_正射画像_正射画像（2014/9/28）</ows:Title>
-<ows:Identifier>20140928dol</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/12/20</ows:Title>
+<ows:Identifier>20161220dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -73355,11 +74087,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140928dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20161220dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_航空機SAR画像（2014/9/30）</ows:Title>
-<ows:Identifier>20140930dol</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/7/25（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20160725dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -73367,11 +74099,11 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140930dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160725dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_航空機SAR画像（2014/9/29）</ows:Title>
-<ows:Identifier>20140929dol2</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/3/3（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20160303dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -73379,47 +74111,47 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z10to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160303dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_衛星SAR強度画像（2014/9/29）</ows:Title>
-<ows:Identifier>20140929d_mag_ontake</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/12/9</ows:Title>
+<ows:Identifier>20151209dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
+<TileMatrixSet>z13to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140929d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151209dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_衛星SAR強度画像（2014/8/18）</ows:Title>
-<ows:Identifier>20140818d_mag_ontake</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/7/28（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20150728dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z5to18</TileMatrixSet>
+<TileMatrixSet>z14to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140818d_mag_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150728dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山基本図「御嶽山」</ows:Title>
-<ows:Identifier>_vbm_2014_09</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/3/1（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20150301dol</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z8to17</TileMatrixSet>
+<TileMatrixSet>z10to17</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山基本図「御嶽山」（透過）</ows:Title>
-<ows:Identifier>20140927d_vlcd_t_ontake</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/12/10</ows:Title>
+<ows:Identifier>20141210doh</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
@@ -73427,19 +74159,631 @@
 <TileMatrixSetLink>
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140927d_vlcd_t_ontake/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141210doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_御嶽山_火山土地条件図「御嶽山」</ows:Title>
-<ows:Identifier>_vlcd_2014_09</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/12/4</ows:Title>
+<ows:Identifier>20141204doh</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/7/4（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20140704dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/3/22（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20140322dol</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140322dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/2/16</ows:Title>
+<ows:Identifier>20140216doh</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140216doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2013/12/17</ows:Title>
+<ows:Identifier>20131217doh</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131217doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2013/12/4</ows:Title>
+<ows:Identifier>20131204doh</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/12/9</ows:Title>
+<ows:Identifier>20151209doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151209doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/7/28（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20150728dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150728dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/3/1（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20150301dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/12/10</ows:Title>
+<ows:Identifier>20141210doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to17</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141210doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/7/4（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20140704dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z14to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/3/22（無人航空機（UAV）撮影）</ows:Title>
+<ows:Identifier>20140322dol2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140322dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/2/16</ows:Title>
+<ows:Identifier>20140216doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140216doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2013/12/17</ows:Title>
+<ows:Identifier>20131217doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z15to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131217doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2013/12/4</ows:Title>
+<ows:Identifier>20131204doh2</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131204doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/6/26</ows:Title>
+<ows:Identifier>20170626lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170626lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/6/10</ows:Title>
+<ows:Identifier>20170610lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170610lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/5/25</ows:Title>
+<ows:Identifier>20170525lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170525lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/5/9</ows:Title>
+<ows:Identifier>20170509lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170509lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2016/6/23</ows:Title>
+<ows:Identifier>20160623lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160623lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/12/14</ows:Title>
+<ows:Identifier>20151214lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151214lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/11/12</ows:Title>
+<ows:Identifier>20151112lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151112lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/10/11</ows:Title>
+<ows:Identifier>20151011lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151011lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/9/25</ows:Title>
+<ows:Identifier>20150925lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150925lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/8/24</ows:Title>
+<ows:Identifier>20150824lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150824lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/7/23</ows:Title>
+<ows:Identifier>20150723lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150723lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/7/7</ows:Title>
+<ows:Identifier>20150707lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150707lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/6/21</ows:Title>
+<ows:Identifier>20150621lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150621lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/6/5</ows:Title>
+<ows:Identifier>20150605lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z8to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150605lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/5/20</ows:Title>
+<ows:Identifier>20150520lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z7to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150520lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/5/4</ows:Title>
+<ows:Identifier>20150504lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150504lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/4/18</ows:Title>
+<ows:Identifier>20150418lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150418lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/4/2</ows:Title>
+<ows:Identifier>20150402lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150402lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/3/17</ows:Title>
+<ows:Identifier>20150317lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150317lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/3/1</ows:Title>
+<ows:Identifier>nishinoshima_2015_03_01</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/2/13</ows:Title>
+<ows:Identifier>nishinoshima_2015_02_13</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150213lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/1/12</ows:Title>
+<ows:Identifier>nishinoshima_2015_01_12</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150112lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/11/25</ows:Title>
+<ows:Identifier>nishinoshima_2014_11_25</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141125lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/10/24</ows:Title>
+<ows:Identifier>nishinoshima_2014_10_24</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141024lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/10/8</ows:Title>
+<ows:Identifier>20141008lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141008lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/9/6</ows:Title>
+<ows:Identifier>20140906lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140906lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/8/21</ows:Title>
+<ows:Identifier>20140821lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140821lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/7/4</ows:Title>
+<ows:Identifier>20140704lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/6/2</ows:Title>
+<ows:Identifier>20140602lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140602lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/5/17</ows:Title>
+<ows:Identifier>20140517lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140517lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/3/30</ows:Title>
+<ows:Identifier>20140330lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140330lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/2/26</ows:Title>
+<ows:Identifier>20140226lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140226lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2013/12/24</ows:Title>
+<ows:Identifier>lsi1311nishinoshima</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131224lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2013/9/3</ows:Title>
+<ows:Identifier>20130903lsi</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z13to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20130903lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（基図）</ows:Title>
+<ows:Identifier>vbmd_bm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
+<ows:Identifier>vbmd_colorrel</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
+<ows:Identifier>vbmd_pm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_SAR解析結果(ALOS-2)_2015/09/07-2015/09/21_DR</ows:Title>
@@ -73490,16 +74834,40 @@
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/2013_s-ortho_asosan/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_火山基本図「阿蘇山」</ows:Title>
-<ows:Identifier>_vbm_2018-2</ows:Identifier>
+<ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_火山基本図データ_火山基本図データ（基図）</ows:Title>
+<ows:Identifier>vbmd_bm</ows:Identifier>
 <Style isDefault="true">
 <ows:Identifier>default</ows:Identifier>
 </Style>
 <Format>image/png</Format>
 <TileMatrixSetLink>
-<TileMatrixSet>z8to17</TileMatrixSet>
+<TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
+<ows:Identifier>vbmd_colorrel</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
+<ows:Identifier>vbmd_pm</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>地震、台風・豪雨等、火山_火山_阿蘇山_火山土地条件図「阿蘇山」</ows:Title>
@@ -74544,750 +75912,6 @@
 <TileMatrixSet>z2to18</TileMatrixSet>
 </TileMatrixSetLink>
 <ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2018/1/17</ows:Title>
-<ows:Identifier>20180117dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20180117dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/12/20</ows:Title>
-<ows:Identifier>20161220dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20161220dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/7/25（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20160725dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160725dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2016/3/3（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20160303dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160303dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/12/9</ows:Title>
-<ows:Identifier>20151209dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151209dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/7/28（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20150728dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z14to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150728dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2015/3/1（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20150301dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/12/10</ows:Title>
-<ows:Identifier>20141210doh</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141210doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/12/4</ows:Title>
-<ows:Identifier>20141204doh</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/7/4（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20140704dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z8to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/3/22（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20140322dol</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140322dol/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2014/2/16</ows:Title>
-<ows:Identifier>20140216doh</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140216doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2013/12/17</ows:Title>
-<ows:Identifier>20131217doh</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131217doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_正射画像_2013/12/4</ows:Title>
-<ows:Identifier>20131204doh</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131204doh/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/12/9</ows:Title>
-<ows:Identifier>20151209doh2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151209doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/7/28（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20150728dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150728dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2015/3/1（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20150301dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/12/10</ows:Title>
-<ows:Identifier>20141210doh2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141210doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/7/4（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20140704dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z14to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/3/22（無人航空機（UAV）撮影）</ows:Title>
-<ows:Identifier>20140322dol2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z15to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140322dol2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2014/2/16</ows:Title>
-<ows:Identifier>20140216doh2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z15to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140216doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2013/12/17</ows:Title>
-<ows:Identifier>20131217doh2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z15to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131217doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_（上載）地形判読図_2013/12/4</ows:Title>
-<ows:Identifier>20131204doh2</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z10to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131204doh2/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/6/26</ows:Title>
-<ows:Identifier>20170626lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170626lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/6/10</ows:Title>
-<ows:Identifier>20170610lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170610lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/5/25</ows:Title>
-<ows:Identifier>20170525lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170525lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2017/5/9</ows:Title>
-<ows:Identifier>20170509lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20170509lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2016/6/23</ows:Title>
-<ows:Identifier>20160623lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20160623lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/12/14</ows:Title>
-<ows:Identifier>20151214lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151214lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/11/12</ows:Title>
-<ows:Identifier>20151112lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151112lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/10/11</ows:Title>
-<ows:Identifier>20151011lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20151011lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/9/25</ows:Title>
-<ows:Identifier>20150925lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150925lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/8/24</ows:Title>
-<ows:Identifier>20150824lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150824lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/7/23</ows:Title>
-<ows:Identifier>20150723lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150723lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/7/7</ows:Title>
-<ows:Identifier>20150707lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150707lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/6/21</ows:Title>
-<ows:Identifier>20150621lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z8to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150621lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/6/5</ows:Title>
-<ows:Identifier>20150605lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z8to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150605lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/5/20</ows:Title>
-<ows:Identifier>20150520lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z7to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150520lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/5/4</ows:Title>
-<ows:Identifier>20150504lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150504lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/4/18</ows:Title>
-<ows:Identifier>20150418lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150418lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/4/2</ows:Title>
-<ows:Identifier>20150402lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150402lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/3/17</ows:Title>
-<ows:Identifier>20150317lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150317lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/3/1</ows:Title>
-<ows:Identifier>nishinoshima_2015_03_01</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150301lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/2/13</ows:Title>
-<ows:Identifier>nishinoshima_2015_02_13</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150213lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2015/1/12</ows:Title>
-<ows:Identifier>nishinoshima_2015_01_12</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20150112lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/11/25</ows:Title>
-<ows:Identifier>nishinoshima_2014_11_25</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141125lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/10/24</ows:Title>
-<ows:Identifier>nishinoshima_2014_10_24</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141024lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/10/8</ows:Title>
-<ows:Identifier>20141008lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20141008lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/9/6</ows:Title>
-<ows:Identifier>20140906lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140906lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/8/21</ows:Title>
-<ows:Identifier>20140821lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140821lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/7/4</ows:Title>
-<ows:Identifier>20140704lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140704lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/6/2</ows:Title>
-<ows:Identifier>20140602lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140602lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/5/17</ows:Title>
-<ows:Identifier>20140517lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140517lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/3/30</ows:Title>
-<ows:Identifier>20140330lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140330lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2014/2/26</ows:Title>
-<ows:Identifier>20140226lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20140226lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2013/12/24</ows:Title>
-<ows:Identifier>lsi1311nishinoshima</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20131224lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_衛星画像_2013/9/3</ows:Title>
-<ows:Identifier>20130903lsi</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z13to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20130903lsi/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（基図）</ows:Title>
-<ows:Identifier>vbmd_bm</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_bm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（陰影段彩図）</ows:Title>
-<ows:Identifier>vbmd_colorrel</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_colorrel/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_西之島付近_火山基本図データ_火山基本図データ（写真地図）</ows:Title>
-<ows:Identifier>vbmd_pm</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to18</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbmd_pm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山基本図</ows:Title>
-<ows:Identifier>vbm</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to17</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vbm/{TileMatrix}/{TileCol}/{TileRow}.png"/>
-</Layer>
-<Layer>
-<ows:Title>地震、台風・豪雨等、火山_火山_樽前山_火山土地条件図</ows:Title>
-<ows:Identifier>vlcd</ows:Identifier>
-<Style isDefault="true">
-<ows:Identifier>default</ows:Identifier>
-</Style>
-<Format>image/png</Format>
-<TileMatrixSetLink>
-<TileMatrixSet>z2to16</TileMatrixSet>
-</TileMatrixSetLink>
-<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/vlcd/{TileMatrix}/{TileCol}/{TileRow}.png"/>
 </Layer>
 <Layer>
 <ows:Title>他機関の情報_土地分類基本調査（土地履歴調査）－国土政策局_地形分類図</ows:Title>
@@ -79340,6 +79964,100 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z8to17</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z3to18</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -79609,310 +80327,6 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
-<ows:Identifier>z8to17</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>8</ows:Identifier>
-<ScaleDenominator>2183915.093862179</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>256</MatrixWidth>
-<MatrixHeight>256</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>9</ows:Identifier>
-<ScaleDenominator>1091957.546931089</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>512</MatrixWidth>
-<MatrixHeight>512</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>10</ows:Identifier>
-<ScaleDenominator>545978.7734655447</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>1024</MatrixWidth>
-<MatrixHeight>1024</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>11</ows:Identifier>
-<ScaleDenominator>272989.3867327723</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>2048</MatrixWidth>
-<MatrixHeight>2048</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>12</ows:Identifier>
-<ScaleDenominator>136494.6933663862</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>4096</MatrixWidth>
-<MatrixHeight>4096</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z13to17</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>17</ows:Identifier>
-<ScaleDenominator>4265.459167699568</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>131072</MatrixWidth>
-<MatrixHeight>131072</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z8to15</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>8</ows:Identifier>
-<ScaleDenominator>2183915.093862179</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>256</MatrixWidth>
-<MatrixHeight>256</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>9</ows:Identifier>
-<ScaleDenominator>1091957.546931089</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>512</MatrixWidth>
-<MatrixHeight>512</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>10</ows:Identifier>
-<ScaleDenominator>545978.7734655447</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>1024</MatrixWidth>
-<MatrixHeight>1024</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>11</ows:Identifier>
-<ScaleDenominator>272989.3867327723</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>2048</MatrixWidth>
-<MatrixHeight>2048</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>12</ows:Identifier>
-<ScaleDenominator>136494.6933663862</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>4096</MatrixWidth>
-<MatrixHeight>4096</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
-<ows:Identifier>z8to16</ows:Identifier>
-<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
-<TileMatrix>
-<ows:Identifier>8</ows:Identifier>
-<ScaleDenominator>2183915.093862179</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>256</MatrixWidth>
-<MatrixHeight>256</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>9</ows:Identifier>
-<ScaleDenominator>1091957.546931089</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>512</MatrixWidth>
-<MatrixHeight>512</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>10</ows:Identifier>
-<ScaleDenominator>545978.7734655447</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>1024</MatrixWidth>
-<MatrixHeight>1024</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>11</ows:Identifier>
-<ScaleDenominator>272989.3867327723</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>2048</MatrixWidth>
-<MatrixHeight>2048</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>12</ows:Identifier>
-<ScaleDenominator>136494.6933663862</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>4096</MatrixWidth>
-<MatrixHeight>4096</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>13</ows:Identifier>
-<ScaleDenominator>68247.34668319309</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>8192</MatrixWidth>
-<MatrixHeight>8192</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>14</ows:Identifier>
-<ScaleDenominator>34123.67334159654</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>16384</MatrixWidth>
-<MatrixHeight>16384</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>15</ows:Identifier>
-<ScaleDenominator>17061.83667079827</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>32768</MatrixWidth>
-<MatrixHeight>32768</MatrixHeight>
-</TileMatrix>
-<TileMatrix>
-<ows:Identifier>16</ows:Identifier>
-<ScaleDenominator>8530.918335399136</ScaleDenominator>
-<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
-<TileWidth>256</TileWidth>
-<TileHeight>256</TileHeight>
-<MatrixWidth>65536</MatrixWidth>
-<MatrixHeight>65536</MatrixHeight>
-</TileMatrix>
-</TileMatrixSet>
-<TileMatrixSet>
 <ows:Identifier>z13to18</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
 <TileMatrix>
@@ -79971,8 +80385,142 @@
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
+<ows:Identifier>z13to17</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>17</ows:Identifier>
+<ScaleDenominator>4265.459167699568</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>131072</MatrixWidth>
+<MatrixHeight>131072</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
 <ows:Identifier>z13to16</ows:Identifier>
 <ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>16</ows:Identifier>
+<ScaleDenominator>8530.918335399136</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>65536</MatrixWidth>
+<MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z8to16</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
 <TileMatrix>
 <ows:Identifier>13</ows:Identifier>
 <ScaleDenominator>68247.34668319309</ScaleDenominator>
@@ -80102,6 +80650,82 @@
 <TileHeight>256</TileHeight>
 <MatrixWidth>65536</MatrixWidth>
 <MatrixHeight>65536</MatrixHeight>
+</TileMatrix>
+</TileMatrixSet>
+<TileMatrixSet>
+<ows:Identifier>z8to15</ows:Identifier>
+<ows:SupportedCRS>urn:ogc:def:crs:EPSG:6.18:3:3857</ows:SupportedCRS>
+<TileMatrix>
+<ows:Identifier>8</ows:Identifier>
+<ScaleDenominator>2183915.093862179</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>256</MatrixWidth>
+<MatrixHeight>256</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>9</ows:Identifier>
+<ScaleDenominator>1091957.546931089</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>512</MatrixWidth>
+<MatrixHeight>512</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>10</ows:Identifier>
+<ScaleDenominator>545978.7734655447</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>1024</MatrixWidth>
+<MatrixHeight>1024</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>11</ows:Identifier>
+<ScaleDenominator>272989.3867327723</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>2048</MatrixWidth>
+<MatrixHeight>2048</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>12</ows:Identifier>
+<ScaleDenominator>136494.6933663862</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>4096</MatrixWidth>
+<MatrixHeight>4096</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>13</ows:Identifier>
+<ScaleDenominator>68247.34668319309</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>8192</MatrixWidth>
+<MatrixHeight>8192</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>14</ows:Identifier>
+<ScaleDenominator>34123.67334159654</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>16384</MatrixWidth>
+<MatrixHeight>16384</MatrixHeight>
+</TileMatrix>
+<TileMatrix>
+<ows:Identifier>15</ows:Identifier>
+<ScaleDenominator>17061.83667079827</ScaleDenominator>
+<TopLeftCorner>-20037508.34278925 20037508.34278925</TopLeftCorner>
+<TileWidth>256</TileWidth>
+<TileHeight>256</TileHeight>
+<MatrixWidth>32768</MatrixWidth>
+<MatrixHeight>32768</MatrixHeight>
 </TileMatrix>
 </TileMatrixSet>
 <TileMatrixSet>
