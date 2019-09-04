@@ -71834,6 +71834,102 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_正射画像_佐賀地区（佐賀県佐賀市、唐津市、多久市、伊万里市、武雄市、小城市、嬉野市、大町町、江北町、白石町）_佐賀地区（8/30撮影）</ows:Title>
+<ows:Identifier>20190828kyusyu_sagachiku_0830do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_sagachiku_0830do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_正射画像_佐賀地区（佐賀県佐賀市、唐津市、多久市、伊万里市、武雄市、小城市、嬉野市、大町町、江北町、白石町）_佐賀地区一部（8/31撮影）</ows:Title>
+<ows:Identifier>20190828kyusyu_sagachiku_0831do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_sagachiku_0831do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_正射画像（速報）_佐賀地区（佐賀県佐賀市、唐津市、多久市、伊万里市、武雄市、小城市、嬉野市、大町町、江北町、白石町）_佐賀地区（8/30撮影）</ows:Title>
+<ows:Identifier>20190828kyusyu_sagachiku_0830do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_sagachiku_0830do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_正射画像（速報）_佐賀地区（佐賀県佐賀市、唐津市、多久市、伊万里市、武雄市、小城市、嬉野市、大町町、江北町、白石町）_佐賀地区一部（8/31撮影）</ows:Title>
+<ows:Identifier>20190828kyusyu_sagachiku_0831do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_sagachiku_0831do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_浸水推定段彩図_浸水推定段彩図</ows:Title>
+<ows:Identifier>20190828_kyusyu_0828dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828_kyusyu_0828dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_デジタル標高地形図_松浦川水系松浦川周辺</ows:Title>
+<ows:Identifier>20190828kyusyu_matsuurakawa_digital</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_matsuurakawa_digital/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_デジタル標高地形図_六角川水系牛津川周辺</ows:Title>
+<ows:Identifier>20190828kyusyu_ushidu_digital</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_ushidu_digital/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_デジタル標高地形図_筑後川水系巨瀬川周辺</ows:Title>
+<ows:Identifier>20190828kyusyu_kose_digital</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to16</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190828kyusyu_kose_digital/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年６月下旬からの大雨_正射画像_鹿児島中央地区（鹿児島県鹿児島市、日置市、南九州市）_鹿児島中央地区（7/4撮影）</ows:Title>
 <ows:Identifier>20190704_kagoshima_chuou_0704do</ows:Identifier>
 <Style isDefault="true">
