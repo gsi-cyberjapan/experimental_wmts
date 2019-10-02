@@ -71834,6 +71834,18 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年9月22日宮崎県延岡市で発生した竜巻_正射画像_延岡地区（9/24撮影）</ows:Title>
+<ows:Identifier>20190922typhoon17_nobeokachiku_0924do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20190922typhoon17_nobeokachiku_0924do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年８月の前線に伴う大雨_正射画像_佐賀地区（佐賀県佐賀市、唐津市、多久市、伊万里市、武雄市、小城市、嬉野市、大町町、江北町、白石町）_佐賀地区（8/30撮影）</ows:Title>
 <ows:Identifier>20190828kyusyu_sagachiku_0830do</ows:Identifier>
 <Style isDefault="true">
