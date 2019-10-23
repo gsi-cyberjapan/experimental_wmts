@@ -71834,6 +71834,114 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像（速報）_千曲川地区（長野県長野市、須坂市、中野市、千曲市、小布施町、山ノ内町）_千曲川地区（10/16撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_chikumagawa_1016do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_chikumagawa_1016do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像（速報）_丸森地区（宮城県白石市、角田市、丸森町、福島県相馬市、伊達市）_丸森地区（10/20撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_marumori_1020do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_marumori_1020do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像（速報）_丸森地区（宮城県白石市、角田市、丸森町、福島県相馬市、伊達市）_丸森地区（10/21撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_marumori_1021do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_marumori_1021do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_鳴瀬川水系（吉田川）</ows:Title>
+<ows:Identifier>20191012typhoon19_naruse_1014dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_naruse_1014dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_阿武隈川水系（阿武隈川）</ows:Title>
+<ows:Identifier>20191012typhoon19_abukuma_1014dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_abukuma_1014dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_信濃川水系（千曲川）</ows:Title>
+<ows:Identifier>20191012typhoon19_shinano_1013dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_shinano_1013dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_久慈川水系（久慈川）</ows:Title>
+<ows:Identifier>20191012typhoon19_kuji_1014dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_kuji_1014dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_那珂川水系（那珂川）</ows:Title>
+<ows:Identifier>20191012typhoon19_naka_1014dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_naka_1014dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_浸水推定段彩図_荒川水系（入間川・越辺川・都幾川）</ows:Title>
+<ows:Identifier>20191012typhoon19_arakawa_1014dansaizu</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_arakawa_1014dansaizu/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年9月22日宮崎県延岡市で発生した竜巻_正射画像_延岡地区（9/24撮影）</ows:Title>
 <ows:Identifier>20190922typhoon17_nobeokachiku_0924do</ows:Identifier>
 <Style isDefault="true">
