@@ -71834,6 +71834,126 @@
 <ResourceURL format="image/jpeg" resourceType="tile" template="https://maps.gsi.go.jp/xyz/toho1/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
 </Layer>
 <Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年10月の低気圧に伴う大雨_正射画像（速報）_佐倉地区（千葉県千葉市、佐倉市、四街道市、印西市）_佐倉地区（10/26撮影）</ows:Title>
+<ows:Identifier>20191025oame_sakura_1026do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191025oame_sakura_1026do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年10月の低気圧に伴う大雨_正射画像（速報）_茂原地区（千葉県茂原市、睦沢町、長生村、長南町）_茂原地区（10/26撮影）</ows:Title>
+<ows:Identifier>20191025oame_mobara_1026do_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191025oame_mobara_1026do_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年10月の低気圧に伴う大雨_浸水推定段彩図_速報版_千葉県佐倉市周辺</ows:Title>
+<ows:Identifier>20191025oame_sakura_1026dansaizu_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191025oame_sakura_1026dansaizu_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年10月の低気圧に伴う大雨_浸水推定段彩図_速報版_千葉県茂原市・大網白里市周辺</ows:Title>
+<ows:Identifier>20191025oame_mobara_1026dansaizu_sokuho</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191025oame_mobara_1026dansaizu_sokuho/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年10月の低気圧に伴う大雨_浸水推定段彩図_空中写真判読版_一宮川水系（一宮川・豊田川・阿久川）茂原駅周辺</ows:Title>
+<ows:Identifier>20191025oame_mobara_1028dansaizu_handoku</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z2to15</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191025oame_mobara_1028dansaizu_handoku/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像_多摩川地区（東京都大田区、世田谷区、八王子市、立川市、府中市、昭島市、調布市、日野市、国立市、福生市、狛江市、多摩市、稲城市、あきる野市、神奈川県川崎市_多摩川地区（10/13撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_tamagawa_1013do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_tamagawa_1013do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像_都幾川地区（埼玉県川越市、東松山市、坂戸市、嵐山町、川島町）_都幾川地区（10/13撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_tokigawa_1013do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_tokigawa_1013do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像_那珂川地区（茨城県水戸市、ひたちなか市、常陸大宮市、那珂市、城里町）_那珂川地区（10/17撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_nakagawa_1017do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_nakagawa_1017do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像_久慈川地区（茨城県日立市、常陸太田市、常陸大宮市、那珂市、東海村）_久慈川地区（10/17撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_kujigawa_1017do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_kujigawa_1017do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
+<ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像_久慈川（大子）地区（茨城県大子町）_久慈川（大子）地区（10/17撮影）</ows:Title>
+<ows:Identifier>20191012typhoon19_kujigawa_daigo_1017do</ows:Identifier>
+<Style isDefault="true">
+<ows:Identifier>default</ows:Identifier>
+</Style>
+<Format>image/png</Format>
+<TileMatrixSetLink>
+<TileMatrixSet>z10to18</TileMatrixSet>
+</TileMatrixSetLink>
+<ResourceURL format="image/png" resourceType="tile" template="https://maps.gsi.go.jp/xyz/20191012typhoon19_kujigawa_daigo_1017do/{TileMatrix}/{TileCol}/{TileRow}.png"/>
+</Layer>
+<Layer>
 <ows:Title>地震、台風・豪雨等、火山_台風・豪雨等_令和元年台風第１９号_正射画像（速報）_千曲川地区（長野県長野市、須坂市、中野市、千曲市、小布施町、山ノ内町）_千曲川地区（10/16撮影）</ows:Title>
 <ows:Identifier>20191012typhoon19_chikumagawa_1016do_sokuho</ows:Identifier>
 <Style isDefault="true">
